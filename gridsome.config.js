@@ -16,7 +16,19 @@ module.exports = {
       use: '@gridsome/source-filesystem',
       options: {
         path: 'posts/**/*.md',
-        typeName: 'Post',
+        typeName: 'Blog',
+        remark: {
+          plugins: [
+            // ...local plugins
+          ]
+        }
+      }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'pages/**/*.md',
+        typeName: 'ContentPage',
         remark: {
           plugins: [
             // ...local plugins
@@ -30,5 +42,15 @@ module.exports = {
         publicPath: `/admin`
       }
     },
-  ]
+    
+  ],
+  templates: {
+    Blog: '/blog/:title',
+    ContentPage: '/:title',
+  },
+  transformers: {
+    remark: {
+      // global remark options
+    }
+  },
 }
