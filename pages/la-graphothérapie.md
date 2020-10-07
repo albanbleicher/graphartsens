@@ -13,6 +13,8 @@ date: 2020-10-06T22:16:42.068Z
 
 **Qu’est que la graphothérapie ou rééducation de l’écriture ?**
 
+![(re)](/uploads/header-1.jpeg "(re)")
+
 C’est une **approche thérapeutique douce** visant à **réconcilier enfants, adolescents et adultes avec leur écriture.**
 
 La graphothérapie (également appelée rééducation de l’écriture) consiste donc à résoudre les troubles de l’écriture en particulier la dysgraphie (si clic en savoir plus).
@@ -35,11 +37,7 @@ L’inquiétude de l’enfant et de la famille grandit quand **les remarques app
 
 Dans notre système scolaire, à l’école et pendant les études, la maîtrise de l’écriture est indissociable de la réussite scolaire.
 
-
-
 Ainsi, plus on avance dans sa scolarité plus il faut être capable d’écrire vite pour prendre en note les cours, terminer à temps les évaluations, restituer ses connaissances.
-
-
 
 Aussi, quand la graphie de l’enfant est déficiente, non automatisée, cela peut entrainer une spirale de perturbations : 
 
@@ -53,8 +51,6 @@ Aussi, quand la graphie de l’enfant est déficiente, non automatisée, cela pe
 
 \-répercussions sur la scolarité, l’estime de soi et la confiance.
 
-
-
 Il est donc important de ne pas minimiser le problème et de prendre rapidement les choses en main.
 
 N’hésitez donc pas à demander à un rendez-vous à l’enseignant de votre enfant. Il est primordial que l’enfant, ou l’adolescent entende qu’il a sans doute besoin d’une rééducation axée sur son écriture. Souvent, les enseignants sont très attentifs pour aider l’enfant à atténuer ce trouble et encourager une scolarité sereine.
@@ -65,11 +61,7 @@ LIEN VERS prise de contact
 
 Pour qui s’adresse la rééducation de l’écriture ?
 
-
-
 A toute personne (enfant, adolescents, adultes) en difficulté avec son écriture et désireuse de (re) retrouver le plaisir d’écrire.
-
-
 
 Les troubles d’écriture sont variables selon les individus, les perturbations peuvent aller de la simple maladresse à écrire une lettre ou un chiffre à l’incapacité complète d’écrire. 
 
@@ -83,13 +75,9 @@ De manière générale, on identifie que :
 
 \-Une écriture en décalage avec la maturité intellectuelle
 
-
-
 Quand les perturbations sont prononcées et associées, on parle de trouble dysgraphique (en savoir plus) (celui-ci est déterminé par une cotation précise).
 
 Il n’est pas nécessaire d’être dysgraphique pour suivre une rééducation.
-
-
 
 Une rééducation de l’écriture est possible dès **le cours préparatoire** (il est possible de faciliter le geste d’écriture en travaillant les pré-requis en grande section maternelle, voir les ateliers coup de pouce clic**) jusqu’à la faculté.**
 
