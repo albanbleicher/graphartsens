@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100;200;300;400;500;600;700&display=swap');
+@font-face {
+    font-family: 'OpenDyslexic';
+    src: url('OpenDyslexic-Regular.woff2') format('woff2'),
+        url('OpenDyslexic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+$main: #DA5B3F;
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: $main;
+    font-family: 'Epilogue', sans-serif;
+}
+h1,h2 {
+    font-family: 'OpenDyslexic';
+}
+.layout {
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.4)),url('../images/illustrations/1.jpg');
+    background-size: 100%;
+}
+nav {
+    height: 40vh;
+    padding: 50px;
+    display:flex;
+    width: 100%;
+    justify-content: space-between;
+    box-sizing: border-box;
+    color: #fff;
+    ul {
+        list-style: none;
+        text-align: right;
+        li {
+            margin-bottom: 20px;
+            a {
+                text-decoration: none;
+                color:white;
+            }
+        }
+
+    }
+    img {
+        height: 100%;
+        border-radius:100%;
+    }
+}
+section {
+    width: 100%;
+    box-sizing: border-box;
+    &.content {
+        display: flex;
+        flex-direction: column;
+        &:nth-child(2n) {
+            background-color: #fff;
+            align-items: flex-end;
+            p {
+                text-align: right;
+            }
+            h2 {
+                background-color: $main;
+                color:white;
+                padding:10px 25px;
+                display: inline;
+            }
+            p {
+                margin-top: 50px;
+                color: #000;
+                line-height: 30px;
+            }
+            a {
+                color: #000;
+                text-decoration: none;
+                padding-bottom: 4px;
+                font-size: 25px;
+                border-bottom: 2px solid #000;
+            }
+        }
+        background-color: $main;
+        padding:100px;
+        h2 {
+            background-color: #fff;
+            padding:10px 25px;
+            display: inline;
+            width: max-content;
+        }
+        p {
+            margin-top: 30px;
+            color: white;
+            line-height: 30px;
+        }
+        a {
+            color: white;
+            text-decoration: none;
+            padding-bottom: 4px;
+            font-size: 25px;
+            border-bottom: 2px solid #fff;
+            width: max-content;
+        }
+    }
+    &.landing-first {
+        padding:20px;
+        height: calc(100vh - 40vh);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        span {
+            background-color: #eee;
+            padding:10px 25px;
+            font-size: 13px;
+            margin-bottom: 30px;;
+        }
+        p {
+            background-color: $main;
+            padding:5px 25px;
+            color: white;
+            font-weight: bold;
+            font-size: 25px;
+            margin-top: 0;
+            margin-bottom: 0px;
+    font-family: 'OpenDyslexic';
+
+        }
+    }
+
+}
+.footer {
+    background-color: #212121;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
+.page {
+    background-color: #fff;
+    padding: 50px 100px;
+    h1 {
+        text-align:center;
+        margin-bottom: 50px;
+    }
+}

@@ -1,16 +1,23 @@
 <template>
-  <div class="layout">
-    <header class="header">
-      <strong>
-        <g-link to="/">{{ $static.metadata.siteName }}</g-link>
-      </strong>
-      <nav class="nav">
-        <g-link class="nav__link" to="/">Home</g-link>
-        <g-link class="nav__link" to="/about/">About</g-link>
-      </nav>
-    </header>
+<div>
+    <div class="layout">
+    <nav>
+      <img src="@/assets/images/logo.png" alt="GraphArtSens">
+      <ul>
+        <li><a href="#">Qui-suis-je ?</a></li>
+        <li><a href="#">La graphothérapie</a></li>
+        <li><a href="#">Les troubles de l'écriture</a></li>
+        <li><a href="#">Questions fréquentes</a></li>
+        <li><a href="#">Tarifs & Réservations</a></li>
+
+      </ul>
+    </nav>
     <slot/>
   </div>
+  <div class="footer">
+      <p>Estelle Charneau-Vachez - Graphothérapeute | Graph Art Sens - Tous droits réservés</p>
+    </div>
+</div>
 </template>
 
 <static-query>
@@ -20,31 +27,3 @@ query {
   }
 }
 </static-query>
-
-<style>
-body {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  margin:0;
-  padding:0;
-  line-height: 1.5;
-}
-
-.layout {
-  max-width: 760px;
-  margin: 0 auto;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-  height: 80px;
-}
-
-.nav__link {
-  margin-left: 20px;
-}
-</style>
