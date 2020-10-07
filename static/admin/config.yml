@@ -45,13 +45,13 @@ collections:
         fields:
           - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false}
           - {label: "Titre de la page", name: title, widget: string}
-          - {label: "Photo de présentation", name: photo, widget: image}
+          - {label: "Photo de présentation", name: about_photo, widget: image}
           - label: "Diplômes"
-            name: diplomes
+            name: about_diplomes
             widget: list
             fields:
-              - {label: Intitulé du diplôme, name: diplome_name, widget: string}
-          - {label: "Texte de présentation", name: "body", widget: "markdown"}
+              - {label: Intitulé du diplôme, name: about_diplome_name, widget: string}
+          - {label: "Texte de présentation", name: "about_content", widget: "markdown"}
       - label: "Séances"
         name: "sessions"
         file: "src/assets/static_pages/sessions.yml"
@@ -59,14 +59,14 @@ collections:
         fields:
           - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false}
           - {label: "Titre de la page", name: title, widget: string}
-          - {label: "Présentations des séances", name: body, widget: markdown}
+          - {label: "Présentations des séances", name: sessions_content, widget: markdown}
           - label: "Tarifs"
             name: tarifs
             widget: list
             fields:
-              - {label: Intitulé du tarif, name: name, widget: string}
-              - {label: "Description du tarif", name: "body", widget: "markdown"}
-              - {label: "Montant", name: price, widget: string}
+              - {label: Intitulé du tarif, name: sessions_tarif_name, widget: string}
+              - {label: "Description du tarif", name: "sessions_tarif_desc", widget: "markdown"}
+              - {label: "Montant", name: sessions_tarif_price, widget: string}
 
           
       

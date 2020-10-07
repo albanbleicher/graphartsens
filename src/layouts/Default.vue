@@ -5,7 +5,7 @@
       <img src="@/assets/images/logo.png" alt="GraphArtSens">
       <ul>
         <li v-for='item in $static.menu.edges' :key='item.node.key'><a :href="item.node.path">{{item.node.title}}</a></li>
-        <li><a href="#">Tarifs & Réservations</a></li>
+        <li v-for='item in $static.menu_settings.edges' :key='item.node.key'><a :href="item.node.path">{{item.node.title}}</a></li>
 
       </ul>
     </nav>
@@ -20,6 +20,15 @@
 <static-query>
 query getMenu {
   menu:allContentPage(sortBy: "title", order: DESC, filter: {isInMenu: {eq:true}}) {
+    edges {
+      node {
+        title
+        path
+       id 
+      }
+    }
+  }
+  menu_settings:allSettingPage(sortBy: "title", order: DESC, filter: {isInMenu: {eq:true}}) {
     edges {
       node {
         title
