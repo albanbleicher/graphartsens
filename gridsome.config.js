@@ -37,6 +37,13 @@ module.exports = {
       }
     },
     {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'src/assets/static_pages/*.yml',
+        typeName: 'SettingPage',
+      }
+    },
+    {
       use: `gridsome-plugin-netlify-cms`,
       options: {
         publicPath: `/admin`
@@ -47,6 +54,7 @@ module.exports = {
   templates: {
     Blog: '/blog/:title',
     ContentPage: '/:title',
+    SettingPage: '/:title',
   },
   transformers: {
     remark: {

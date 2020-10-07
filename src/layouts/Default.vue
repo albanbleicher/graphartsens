@@ -4,10 +4,7 @@
     <nav>
       <img src="@/assets/images/logo.png" alt="GraphArtSens">
       <ul>
-        <li><a href="#">Qui-suis-je ?</a></li>
-        <li><a href="#">La graphothérapie</a></li>
-        <li><a href="#">Les troubles de l'écriture</a></li>
-        <li><a href="#">Questions fréquentes</a></li>
+        <li v-for='item in $static.menu.edges' :key='item.node.key'><a :href="item.node.path">{{item.node.title}}</a></li>
         <li><a href="#">Tarifs & Réservations</a></li>
 
       </ul>
@@ -21,9 +18,23 @@
 </template>
 
 <static-query>
-query {
-  metadata {
-    siteName
+query getMenu {
+  menu:allContentPage(sortBy: "title", order: DESC, filter: {isInMenu: {eq:true}}) {
+    edges {
+      node {
+        title
+        path
+       id 
+      }
+    }
   }
 }
 </static-query>
+
+<script>
+export default {
+  mounted() {
+    console.log(this)
+  }
+ }
+</script>
