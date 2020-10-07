@@ -1,26 +1,3 @@
-who_title: Qui-suis-je?
-who_photo: /uploads/fullsizeoutput_e5d.jpeg
-who_diplomes:
-  - who_diplome_name: Graphothérapeute certifiée
-  - who_diplome_name: Diplomée en médiation culturelle
-who_body: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a sapien nec ex
-  efficitur aliquet sit amet vel augue. Nunc volutpat malesuada neque sit amet
-  facilisis. Ut tortor urna, porta ut libero consequat, mollis sodales urna.
-  Nullam lacus est, congue id justo malesuada, dignissim placerat metus.
-  Maecenas gravida purus ipsum, a elementum elit suscipit eu. Sed in sodales
-  risus, suscipit molestie nulla. Vivamus auctor vitae neque et vehicula.
-
-
-  Nulla sed consectetur turpis. Proin vehicula justo nec mi congue, id pharetra leo facilisis. Duis et nunc ante. Ut porta dolor in tortor sollicitudin, quis porttitor nulla lacinia. Morbi tincidunt eget lectus a interdum. Sed mollis felis et enim auctor auctor nec sed turpis. Nullam semper nisi ut turpis maximus, id gravida arcu mollis.
-
-
-  Nullam suscipit rhoncus rhoncus. Curabitur eget augue feugiat, gravida elit et, finibus ligula. Duis non mauris felis. Donec ac tincidunt sapien. Integer pharetra dignissim mattis. Integer eu odio quis mauris aliquet accumsan ut nec nulla. Vivamus ultricies elit diam, sit amet porttitor ipsum lobortis vel. Etiam viverra tristique viverra. Etiam vel malesuada ligula, vitae lobortis diam. Quisque sollicitudin at ligula ac.
-title: À propos de moi...
-photo: /uploads/fullsizeoutput_e5d.jpeg
-diplomes:
-  - diplome_name: Certifiée en graphothérapie
-  - diplome_name: Diplômée en médiation artistique
 body: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus
   aliquet convallis. In ut malesuada eros. Aenean eu lacus justo. Aenean eget
@@ -35,3 +12,27 @@ body: >-
 
 
   Ut sodales tempus sem. Donec sed blandit ante. Morbi consequat nisi quam, sed venenatis justo facilisis sit amet. Mauris accumsan orci fringilla, hendrerit lacus nec, auctor elit. Nulla egestas aliquet tortor ac feugiat. Donec vehicula ex mi, et ultricies urna facilisis eu. Aenean congue nibh nec lacus sodales laor
+who_body: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a sapien nec ex
+  efficitur aliquet sit amet vel augue. Nunc volutpat malesuada neque sit amet
+  facilisis. Ut tortor urna, porta ut libero consequat, mollis sodales urna.
+  Nullam lacus est, congue id justo malesuada, dignissim placerat metus.
+  Maecenas gravida purus ipsum, a elementum elit suscipit eu. Sed in sodales
+  risus, suscipit molestie nulla. Vivamus auctor vitae neque et vehicula.
+
+
+  Nulla sed consectetur turpis. Proin vehicula justo nec mi congue, id pharetra leo facilisis. Duis et nunc ante. Ut porta dolor in tortor sollicitudin, quis porttitor nulla lacinia. Morbi tincidunt eget lectus a interdum. Sed mollis felis et enim auctor auctor nec sed turpis. Nullam semper nisi ut turpis maximus, id gravida arcu mollis.
+
+
+  Nullam suscipit rhoncus rhoncus. Curabitur eget augue feugiat, gravida elit et, finibus ligula. Duis non mauris felis. Donec ac tincidunt sapien. Integer pharetra dignissim mattis. Integer eu odio quis mauris aliquet accumsan ut nec nulla. Vivamus ultricies elit diam, sit amet porttitor ipsum lobortis vel. Etiam viverra tristique viverra. Etiam vel malesuada ligula, vitae lobortis diam. Quisque sollicitudin at ligula ac.
+isInMenu: true
+title: À propos de moi...
+photo: /uploads/fullsizeoutput_e5d.jpeg
+diplomes:
+  - diplome_name: Certifiée en graphothérapie
+  - diplome_name: Diplômée en médiation artistique
+who_diplomes:
+  - who_diplome_name: Graphothérapeute certifiée
+  - who_diplome_name: Diplomée en médiation culturelle
+who_photo: /uploads/fullsizeoutput_e5d.jpeg
+who_title: Qui-suis-je?
