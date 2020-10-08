@@ -2,7 +2,9 @@
 <div>
     <div class="layout">
     <nav>
+      <a href="/">
       <img src="@/assets/images/logo.png" alt="GraphArtSens">
+      </a>
       <ul>
         <li v-for='item in $static.menu.edges' :key='item.node.key'><a :href="item.node.path">{{item.node.title}}</a></li>
         <li v-for='item in $static.menu_settings.edges' :key='item.node.key'><a :href="item.node.path">{{item.node.title}}</a></li>

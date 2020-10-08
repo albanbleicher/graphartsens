@@ -1,21 +1,34 @@
 <template>
    <Layout>
-      <h1> {{$page.post.title}}</h1>
-      <p class="date"> {{$page.post.date}}</p>
-      <div v-html="$page.post.content"></div>
-      <img :src="$page.post.featured" :alt="'Illustration - '+ $page.post.title" width="300">
+      <div class="page">
+        <AboutPage :data="$page.data" />
+      </div>
    </Layout>
 </template>
 <page-query>
-
-query getPosts($path: String!) {
-  post: blog(path: $path) {
-    id
+query getSettingPageContent($path: String!) {
+  data:settingPage(path:$path) {
     title
-    content
-    date
+    id
+    
+    about_photo
+    about_content
+    about_diplomes {
+      about_diplome_name
+    }
   }
 }
 
-
 </page-query>
+<script>
+import AboutPage from '@/components/AboutPage'
+export default {
+  components: {
+    AboutPage,
+    isAbout:null
+  },
+  mounted() {
+   console.log(this.$page.data)
+  }
+}
+</script>

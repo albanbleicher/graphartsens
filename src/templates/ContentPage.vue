@@ -3,20 +3,23 @@
       <div class="page">
         <h1> {{$page.data.title}}</h1>
       <div v-html="$page.data.content"></div>
-      <img :src="$page.data.featured" :alt="'Illustration - '+ $page.data.title" width="300">
       </div>
    </Layout>
 </template>
-<page-query>
-
-query getPage($path: String!) {
-  data: contentPage(path: $path) {
-    id
+<static-query>
+query getContentPage($path: String! = "/la-graphotherapie") {
+  data:contentPage(path:$path) {
     title
+    id
     content
-    date
   }
 }
-
-
-</page-query>
+}
+</static-query>
+<script>
+export default {
+  mounted() {
+    console.log(this)
+  }
+}
+</script>
