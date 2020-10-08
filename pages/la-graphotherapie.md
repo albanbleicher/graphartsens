@@ -50,8 +50,6 @@ N’hésitez donc pas à demander à un rendez-vous à l’enseignant de votre e
 
 Une prise en charge individualisée en graphothérapie peut, en peu de séances, corriger et améliorer durablement une écriture défectueuse.
 
-LIEN VERS prise de contact
-
 Pour qui s’adresse la rééducation de l’écriture ?
 
 A toute personne (enfant, adolescents, adultes) en difficulté avec son écriture et désireuse de (re) retrouver le plaisir d’écrire.
