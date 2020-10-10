@@ -15,7 +15,6 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Résumé", name: "excerpt", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "date"}
       - {label: "Contenu", name: "body", widget: "markdown"}
   - name: "pages"
@@ -28,7 +27,6 @@ collections:
     fields:
       - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false}
       - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Résumé", name: "excerpt", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "date"}
       - {label: "Contenu", name: "body", widget: "markdown"}
     collections:

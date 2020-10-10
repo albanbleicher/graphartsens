@@ -53,7 +53,7 @@ module.exports = {
   ],
   templates: {
     Blog: '/blog/:title',
-    ContentPage: '/:title',
+    ContentPage: '/pages/:title',
     SettingPage: '/:title',
   },
   transformers: {

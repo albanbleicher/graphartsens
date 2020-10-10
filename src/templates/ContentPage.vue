@@ -6,7 +6,7 @@
       </div>
    </Layout>
 </template>
-<static-query>
+<page-query>
 query getContentPage($path: String! = "/la-graphotherapie") {
   data:contentPage(path:$path) {
     title
@@ -14,12 +14,14 @@ query getContentPage($path: String! = "/la-graphotherapie") {
     content
   }
 }
-}
-</static-query>
+</page-query>
 <script>
 export default {
-  mounted() {
-    console.log(this)
-  }
+metaInfo() {
+    return {
+      title: this.$page.data.title,
+
+    }
+}
 }
 </script>

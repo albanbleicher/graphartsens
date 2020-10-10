@@ -31,7 +31,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'Estelle Charneau-Vachez | Graphothérapeute'
   }
 }
 </script>

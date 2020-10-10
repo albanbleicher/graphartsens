@@ -14,7 +14,21 @@
     <slot/>
   </div>
   <div class="footer">
-      <p>Estelle Charneau-Vachez - Graphothérapeute | Graph Art Sens - Tous droits réservés</p>
+     <div class="footerModules">
+        <div class="footerMenu">
+        <ul>
+          <li><a href="#">Mes autres accompagnements</a></li>
+          <li><a href="#">Questions fréquentes</a></li>
+        </ul>
+      </div>
+      <div class="footerInfos">
+        <h2>Contact</h2>
+        <p>06 00 00 00 00</p>
+        <p>1, Rue de la fôret <br>
+        75001 PARIS</p>
+      </div>
+     </div>
+      <p>Estelle Charneau-Vachez | Graphothérapeute - Graph Art Sens — Tous droits réservés - <a href="#">Mentions légales</a></p>
     </div>
 </div>
 </template>
@@ -41,11 +55,3 @@ query getMenu {
   }
 }
 </static-query>
-
-<script>
-export default {
-  mounted() {
-    console.log(this)
-  }
- }
-</script>
