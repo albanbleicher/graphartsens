@@ -1,0 +1,16 @@
+isInMenu: true
+isFooterMenu: true
+title: Questions fréquentes
+faq_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+  efficitur elementum enim, sed maximus lacus eleifend eget. Nunc vel dictum
+  nisi. Vestibulum lobortis, leo eu fringilla sagittis, enim magna facilisis
+  nisi, eu pulvinar dui libero vel magna. Nulla ullamcorper posuere purus sed
+  tempor. Donec ornare aliquam ex quis semper. Nullam vehicula viverra eros,
+  quis maximus dolor malesuada ac. Nunc non aliquet sem. Ut non interdum lectus.
+  Etiam et tellus ac dolor dictum suscipit. Aliquam a ante et magna dapibus
+  maximus ut sit amet nunc. Aliquam a porttitor enim.
+questions:
+  - questions_name: Lorem ipsum dolor sit amet ?
+    question_response: "Fusce efficitur elementum enim, sed maximus lacus eleifend eget. "
+  - questions_name: Fusce efficitur elementum enim, sed maximus lacus eleifend eget ?
+    question_response: "Lorem ipsum dolor sit amet "
