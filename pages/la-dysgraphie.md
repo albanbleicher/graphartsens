@@ -1,7 +1,8 @@
 ---
-isInMenu: true
+isInMenu: false
 title: La dysgraphie
 date: 2020-10-08T23:05:06.048Z
+similar: La dysgraphie
 ---
 Qu’est-ce que la dysgraphie ?
 
