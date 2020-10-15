@@ -21,27 +21,36 @@ collections:
     label: "Page"
     folder: "pages"
     editor: 
-     preview: false 
+      preview: false 
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false}
+      - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false, required: false}
+      - {label: "Ajouter au pied de page", name: "isFooterMenu", widget: "boolean", default: false, required: false}
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "date"}
       - {label: "Contenu", name: "body", widget: "markdown"}
+      - label: "Voir aussi"
+        name: "similar"
+        widget: "relation"
+        collection: "pages"
+        search_fields: ["title"]
+        value_field: "title"
+        display_fields: ["title"]
     collections:
 
-  - label: "Paramètres"
+  - label: "Informations"
     name: "settings"
     editor: 
-     preview: false 
+      preview: false 
     files:
       - label: "Qui-suis-je ?"
         name: "about"
         file: "src/assets/static_pages/who.yml"
         slug: "{{slug}}"
         fields:
-          - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false}
+          - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false, required: false}
+          - {label: "Ajouter au pied de page", name: "isFooterMenu", widget: "boolean", default: false, required: false}
           - {label: "Titre de la page", name: title, widget: string}
           - {label: "Photo de présentation", name: about_photo, widget: image}
           - label: "Diplômes"
@@ -55,7 +64,8 @@ collections:
         file: "src/assets/static_pages/sessions.yml"
         slug: "{{slug}}"
         fields:
-          - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false}
+          - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false, required: false}
+          - {label: "Ajouter au pied de page", name: "isFooterMenu", widget: "boolean", default: false, required: false}
           - {label: "Titre de la page", name: title, widget: string}
           - {label: "Présentations des séances", name: sessions_content, widget: markdown}
           - label: "Tarifs"
@@ -65,6 +75,22 @@ collections:
               - {label: Intitulé du tarif, name: sessions_tarif_name, widget: string}
               - {label: "Description du tarif", name: "sessions_tarif_desc", widget: "markdown"}
               - {label: "Montant", name: sessions_tarif_price, widget: string}
+      - label: "Questions fréquentes"
+        name: "faq"
+        file: "src/assets/static_pages/faq.yml"
+        slug: "{{slug}}"
+        fields:
+          - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false, required: false}
+          - {label: "Ajouter au pied de page", name: "isFooterMenu", widget: "boolean", default: false, required: false}
+          - {label: "Titre de la page", name: title, widget: string}
+          - {label: "Texte de présentation", name: faq_desc, widget: markdown}
+          - label: "Questions fréquentes"
+            name: questions
+            widget: list
+            required: false
+            fields:
+              - {label: Question, name: question_name, widget: string}
+              - {label: "Réponse", name: question_response, widget: "string"}
 
           
       

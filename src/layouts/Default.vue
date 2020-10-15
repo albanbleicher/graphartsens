@@ -17,7 +17,7 @@
      <div class="footerModules">
         <div class="footerMenu">
         <ul>
-          <li><a href="#">Mes autres accompagnements</a></li>
+          <li>Blog</li>
           <li><a href="#">Questions fréquentes</a></li>
         </ul>
       </div>
