@@ -7,7 +7,7 @@
         <div class="group-input"><input type="text" placeholder="Prénom"><input type="text" placeholder="Nom"></div>
         <div class="group-input"><input type="mail" placeholder="Mail"><input type="phone" placeholder="Téléphone"></div>
         <textarea placeholder="Votre message"></textarea>
-        <button>Envoyer</button>
+        <button type='submit'>Envoyer</button>
     </form>
 </div>
   </Layout>
