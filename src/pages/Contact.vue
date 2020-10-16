@@ -3,7 +3,7 @@
 
 <div class="contact">
     <h1>Contact</h1>
-    <form name="premier-contact" netlify>
+    <form name="premier-contact" method="POST" netlify>
         <div class="group-input"><input type="text" placeholder="Prénom"><input type="text" placeholder="Nom"></div>
         <div class="group-input"><input type="mail" placeholder="Mail"><input type="phone" placeholder="Téléphone"></div>
         <textarea placeholder="Votre message"></textarea>
