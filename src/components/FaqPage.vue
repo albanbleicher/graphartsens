@@ -1,27 +1,43 @@
 <template>
-    <div class="about">
-        <h1>{{data.title}}</h1>
-            <div class="content" v-html="data.faq_desc"></div>
-            <ul class="questions">
-                <li v-for="question in data.questions" :key ='question.question_name'>
-                    <div class="question_block">
-                        <div class="question">{{question.question_name}}</div>
-                        <div class="reponse">{{question.question_response}}</div>
-                    </div>
-                </li>
-            </ul>
-    </div>
+  <div class="faq">
+    <h1>{{ data.title }}</h1>
+    <div class="content" v-html="data.faq_desc"></div>
+    <p>Cliquez sur une question pour voir la réponse</p>
+    <ul class="questions">
+      <li v-for="question in data.questions" :key="question.question_name">
+        <div class="question_block">
+          <div class="question">
+            <span>{{ question.question_name }}</span
+            ><span>+</span>
+          </div>
+          <div class="reponse hidden">{{ question.question_response }}</div>
+        </div>
+      </li>
+    </ul>
+  </div>
 </template>
 <script>
 export default {
-    mounted() {
-        console.log(this.data)
-    }, 
-    props: {
-        data: {
-            type:Object,
-            required:true
+  mounted() {
+    console.log(this.data)
+
+    let questions_block = document.querySelectorAll('.question_block')
+    questions_block.forEach((item) => {
+      item.querySelector('.question').addEventListener('click', () => {
+        let reponse = item.querySelector('.reponse')
+        if (reponse.classList.contains('hidden')) {
+          reponse.classList.remove('hidden')
+        } else {
+          reponse.classList.add('hidden')
         }
-    }
+      })
+    })
+  },
+  props: {
+    data: {
+      type: Object,
+      required: true,
+    },
+  },
 }
 </script>

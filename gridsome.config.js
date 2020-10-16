@@ -41,6 +41,11 @@ module.exports = {
       options: {
         path: 'src/assets/static_pages/*.yml',
         typeName: 'SettingPage',
+        remark: {
+          plugins: [
+            // ...local plugins
+          ]
+        }
       }
     },
     {

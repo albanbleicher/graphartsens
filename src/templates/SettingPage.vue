@@ -56,9 +56,15 @@ export default {
       isFaq:null,
     } 
   },
-  mounted() {
-    console.log(this)
-    switch (this.$page.data.id) {
+  mounted() {  
+    this.togglePage()
+  },
+  updated() {
+    this.togglePage()
+  },
+  methods: {
+    togglePage() {
+        switch (this.$page.data.id) {
       case "6baefc1112cce6fe474e93487511a477":
         this.isAbout=true;
         this.isSessions=false;
@@ -74,6 +80,7 @@ export default {
         this.isAbout=false;
         this.isFaq=true;
 
+    }
     }
   }
 }
