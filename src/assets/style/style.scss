@@ -21,6 +21,64 @@ h1,h2 {
     background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.4)),url('../images/illustrations/1.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
+    .contact {
+        background-color: #fff;
+        padding: 50px;
+        display: flex;
+        justify-content: center;
+        align-items:center;
+        flex-direction: column;
+        form {
+            width: 600px;
+            .group-input {
+                display:flex;
+                justify-content: space-between;
+                width: 100%;
+                margin-bottom: 20px;
+                input {
+                    padding: 10px 20px;
+                    background:transparent;
+                    border: 2px solid #eee;
+                    border-radius: 2px;
+                    width: 42%;
+                    font-size: 15px;
+                    font-family: 'Epilogue', sans-serif;
+                    font-weight: 400;
+                    outline:0;
+                    transition: border-color 0.5s;
+                    &:focus {
+                        border-color:$main
+                    }
+                }
+            }
+            textarea {
+                padding: 20px;
+                    background:transparent;
+                    border: 2px solid #eee;
+                    border-radius: 2px;
+                    width: 100%;
+                    font-size: 15px;
+                    font-family: 'Epilogue', sans-serif;
+                    font-weight: 400;
+                    box-sizing: border-box;
+                    outline:0;
+                    transition: border-color 0.5s;
+
+                    &:focus {
+                        border-color:$main
+                    }
+            }
+            button {
+                margin-top: 20px;
+                background-color: $main;
+                color: white;
+                padding: 10px 20px;
+                border:0;
+                font-size: 15px;
+                font-family: 'Epilogue', sans-serif;
+            }
+        }
+    }
 }
 nav {
     height: 40vh;
@@ -236,4 +294,53 @@ section {
             }
         }
     }
+    .sessions {
+        .tarifs {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            flex-grow:1;
+            margin-top: 100px;
+            .tarif-element {
+                display: flex;
+                align-items: center;
+                flex-direction: column;
+                width: 300px;
+                text-align: justify;
+                border: 2px solid $main;
+                box-sizing: border-box;
+                border-radius: 3px;
+                .tarif-header {
+                    background-color: $main;
+                    width: 100%;
+                    padding: 20px 10px;
+                    box-sizing: border-box;
+                    h3 {
+                        width: 100%;
+                        text-align: center;
+                        font-family: 'OpenDyslexic', sans-serif;
+                        color: white;
+                    }
+                    .price {
+                        text-align: center;
+                        color: white;
+                        font-size: 30px;
+                        font-weight: bold;
+                    }
+                }
+                p {
+                    padding: 20px 20px 0 20px;
+                }
+                
+                a {
+                    padding:10px 25px;
+                    background-color: $main;
+                    color:white;
+                    text-decoration: none;
+                    margin-bottom: 30px;
+                }
+            }
+        }
+    }
+  
 }
