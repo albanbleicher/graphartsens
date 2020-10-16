@@ -16,79 +16,13 @@ sessions_content: >-
   Ce premier contact téléphonique vous permettra de vous rassurer et d’envisager une prise en charge avec sérénité.
 
 
-
-
-  Bilan graphomoteur CP/ Maternelle
-
-
-  1h
-
-
-  80 € (40€ TTC lors du premier rendez – vous et à nouveau 40 € TTC lors de la restitution écrite).
-
-
-
-
-
-
-  Bilan graphomoteur ( Enfant/Adolescent/Adulte)
-
-
-  1h30
-
-
-  110 € (55€ TTC lors du premier rendez-vous et à nouveau 55 € TTC lors de la restitution écrite).
-
-
-
-
-  Séances de rééducation :
-
-
-  Pour les plus petits (grande section, maternelle CP) : 30min – 25€ (à régler en fin de séance, possibilité en espèces, chèque, carte bancaire, virement)
-
-
-  Pour les enfants/ adolescents/ adultes : 60min – 45€ (à régler en fin de séance, possibilité en espèces, chèque, carte bancaire, virement).
-
-
-
-
   **Ateliers coup de pouce :**
 
 
   Se préparer à l’écriture : j’ai envie de booster les prérequis (exercices ludiques pré-graphiques) de mon enfant en fin de maternelle et au début du CP, pour l’aider dans l’écriture. Séances à votre domicile ou à distance. Possibilité de séance pendant les vacances scolaires.
 
 
-
-
   30 min 1 fois par semaine – 20 €. Ou un forfait de 10 séances de 30 min (par séance) à 150€. Matériel compris.
-
-
-
-
-
-
-  **Accompagnements en médiation artistique en relation d’aide. Pour toutes ces prestations le matériel est fourni.**
-
-
-  (En savoir plus : mes autres accompagnements clic) (matériel fourni)
-
-
-  Séance individuelle de médiation artistique enfant, adolescent, étudiant : 1h – 35 €
-
-
-  Séance individuelle de médiation artistique adulte : 1h30 – 50 €
-
-
-  Séance médiation artistique duo (enfant-adulte) : 1h – 40 €
-
-
-  Atelier collectif médiation artistique (2 à 4 personnes) : 1h30 - 45 €/pers
-
-
-
-
-  Réservez et prendre rendez-vous maintenant
 tarifs:
   - sessions_tarif_name: Au cabinet
     sessions_tarif_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -102,3 +36,16 @@ tarifs:
       Phasellus nisl erat, rutrum quis ligula sit amet, facilisis convallis
       ipsum.
     sessions_tarif_price: "50"
+  - sessions_tarif_name: Atelier coup de pouce
+    sessions_tarif_desc: >-
+      Se préparer à l’écriture : j’ai envie de booster les prérequis (exercices
+      ludiques pré-graphiques) de mon enfant en fin de maternelle et au début du
+      CP, pour l’aider dans l’écriture. Séances à votre domicile ou à distance.
+      Possibilité de séance pendant les vacances scolaires.
+
+
+      30 min 1 fois par semaine
+
+
+      10 séances de 30 minutes
+    sessions_tarif_price: "150"
