@@ -21,6 +21,38 @@ h1,h2 {
     background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.4)),url('../images/illustrations/1.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
+    @media only screen and (max-width:600px) {
+        background-color:$main !important;
+        background-image:none !important;
+        .responsive {
+            display: block;
+
+            &.open {
+                position: absolute;
+                top: 20px;
+                right: 20px;
+            }
+        }
+        nav {
+            padding: 0;
+            justify-content: center;
+            align-items: center;
+            ul {
+                display: none;
+                position: absolute;
+                width: 100%;
+                box-sizing: border-box;
+                background-color: #fff;
+                li {
+                padding: 10px;
+
+                }
+                a  {
+                    color: #212121;
+                }
+            }
+        }
+    }
     .contact {
         background-color: #fff;
         padding: 50px;
@@ -88,15 +120,21 @@ nav {
     justify-content: space-between;
     box-sizing: border-box;
     color: #fff;
+    a {
+        text-decoration: none;
+        color:white;
+    }
+    .responsive {
+        display: none;
+    }
     ul {
         list-style: none;
         text-align: right;
+        padding: 0;
+        margin:0;
         li {
             margin-bottom: 20px;
-            a {
-                text-decoration: none;
-                color:white;
-            }
+            
         }
 
     }
@@ -139,7 +177,10 @@ section {
         }
         background-color: $main;
         padding:100px;
-        h2 {
+        @media only screen and(max-width:600px) {
+            padding:25px;
+        }
+         h2 {
             background-color: #fff;
             padding:10px 25px;
             display: inline;
@@ -232,7 +273,48 @@ section {
     padding: 50px 200px;
     color:#525252;
     line-height: 24px;
+    @media only screen and (max-width:860px) {
+        padding: 50px 100px;
+    }
+    @media only screen and (max-width:500px) {
+        padding: 50px;
+    }
+    ol {
+        list-style: none;
+        color: white;
+        padding: 0;
+        margin: 0;
+    }
+    ol {
+        &>li  {
+            >p {
+                background-color: $main;
+                padding: 20px 50px;
+                cursor: pointer;
+                transition: opacity 0.3s;
+                position: relative;
+                &::after {
+                    content:'+';
+                    position: absolute;
+                    font-size: 40px;
+                    left:20px;
+                }
+                &:hover {
+                    opacity: 0.8;
+                }
+            }
+        }
+        & ul {
+            padding: 0;
+            margin:0;
+            list-style: none;
+            color: $main;
+            display: none;
+        }
+    }
 
+    
+    
     h1 {
         text-align:center;
         margin:50px 0 100px 0 ;
@@ -338,6 +420,12 @@ section {
                     color:white;
                     text-decoration: none;
                     margin-bottom: 30px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    svg {
+                        margin-right: 5px;
+                    }
                 }
             }
         }

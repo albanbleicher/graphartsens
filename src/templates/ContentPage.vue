@@ -12,6 +12,7 @@ query getContentPage($path: String! = "/la-graphotherapie") {
     title
     id
     content
+    header_photo
   }
 }
 </page-query>
@@ -20,8 +21,35 @@ export default {
 metaInfo() {
     return {
       title: this.$page.data.title,
+    }
+},
+mounted() {
+  this.addListeners()
+  console.log(this)
+  document.querySelector('.layout').style.backgroundImage='linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url('+this.$page.data.header_photo+')';
+},
+updated() {
+  this.addListeners()
+  document.querySelector('.layout').style.backgroundImage='linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url('+this.$page.data.header_photo+')';
 
+},
+methods: {
+   addListeners() {
+      let blocks = document.querySelectorAll('ol>li');
+      if(blocks.length>0) {
+        blocks.forEach(item => {
+          item.addEventListener('click', () => {
+             if(item.querySelector('ul').style.display === 'none' || item.querySelector('ul').style.display === '') {
+               item.querySelector('ul').style.display = 'block'
+             }
+             else {
+               item.querySelector('ul').style.display = 'none'
+             }
+          })
+        })
+      }
     }
 }
+
 }
 </script>

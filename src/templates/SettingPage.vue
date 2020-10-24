@@ -4,6 +4,7 @@
         <AboutPage v-if='isAbout' :data="$page.data" />
         <SessionsPage v-if='isSessions' :data="$page.data" />
         <FaqPage v-if='isFaq' :data="$page.data" />
+        <LegalPage v-if='isLegal' :data="$page.data" />
       </div>
    </Layout>
 </template>
@@ -12,7 +13,8 @@ query getSettingPageContent($path: String!) {
   data:settingPage(path:$path) {
     title
     id
-    
+    content 
+
     about_photo
     about_content
     about_diplomes {
@@ -38,11 +40,13 @@ query getSettingPageContent($path: String!) {
 import AboutPage from '@/components/AboutPage'
 import SessionsPage from '@/components/SessionsPage'
 import FaqPage from '@/components/FaqPage'
+import LegalPage from '@/components/LegalPage'
 export default {
   components: {
     AboutPage,
     SessionsPage,
-    FaqPage
+    FaqPage,
+    LegalPage
   },
   metaInfo() {
     return {
@@ -54,9 +58,11 @@ export default {
       isAbout:null,
       isSessions:null,
       isFaq:null,
+      isLegal:null
     } 
   },
   mounted() {  
+    console.log(this)
     this.togglePage()
   },
   updated() {
@@ -69,17 +75,26 @@ export default {
         this.isAbout=true;
         this.isSessions=false;
         this.isFaq = false;
+        this.isLegal=false;
       break;
       case "100f801785f5bca731ce346dcbdc6982": 
         this.isSessions=true;
         this.isAbout=false;
         this.isFaq=false;
+        this.isLegal=false;
       break;
       case "773670555fad69780a5e77ec922c0f45": 
         this.isSessions=false;
         this.isAbout=false;
         this.isFaq=true;
-
+        this.isLegal=false;
+        break;
+        case "5dbd6e66c898476984ca834bd4d78281": {
+          this.isSessions=false;
+        this.isAbout=false;
+        this.isFaq=false;
+        this.isLegal=true;
+        }
     }
     }
   }

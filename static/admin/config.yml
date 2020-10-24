@@ -27,8 +27,10 @@ collections:
     fields:
       - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false, required: false}
       - {label: "Ajouter au pied de page", name: "isFooterMenu", widget: "boolean", default: false, required: false}
-      - {label: "Image d'en-tête", name: header_photo,required:false, widget: image}
+      - {label: "Ajouter un extrait sur la page d'accueil", name: "isOnHomepage", widget: "boolean", default: false, required: false}
       - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Résumé", name: "excerpt", widget: "text"}
+      - {label: "Image d'en-tête", name: header_photo, widget: image}
       - {label: "Date de publication", name: "date", widget: "date"}
       - {label: "Contenu", name: "body", widget: "markdown"}
       - label: "Voir aussi"
@@ -95,6 +97,13 @@ collections:
             fields:
               - {label: Question, name: question_name, widget: string}
               - {label: "Réponse", name: question_response, widget: "string"}
+      - label: "Mentions légales"
+        name: "legal"
+        file: "src/assets/static_pages/legal.yml"
+        slug: "{{slug}}"
+        fields:
+          - {label: "Titre de la page", name: title, widget: string}
+          - {label: "Contenu des mentions légales", name: "content", widget: "markdown"}
 
           
       
