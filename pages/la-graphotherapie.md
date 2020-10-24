@@ -22,7 +22,7 @@ similar: La dysgraphie
 
 C’est une **approche thérapeutique douce** visant à **réconcilier enfants, adolescents et adultes avec leur écriture.**
 
-La graphothérapie (également appelée rééducation de l’écriture) consiste à résoudre les troubles de l’écriture en particulier la **[dysgraphie](/pages/la-dysgraphie)** (si clic en savoir plus).
+La graphothérapie (également appelée rééducation de l’écriture) consiste à résoudre les troubles de l’écriture en particulier la **[dysgraphie](/pages/la-dysgraphie).**
 
 La graphothérapie a pour but d’éliminer les tensions et les appréhensions du patient dans son rapport à l’écrit.
 
