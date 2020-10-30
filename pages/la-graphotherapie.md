@@ -1,6 +1,7 @@
 ---
 isInMenu: true
 isOnHomepage: true
+title: La graphothérapie
 excerpt: >-
   La graphothérapie permet de se réapproprier une écriture harmonieuse et
   confortable, guidée par le plaisir, la fierté, l’efficacité (lisibilité,
@@ -11,8 +12,7 @@ excerpt: >-
 
 
   La graphothérapie est une thérapie brève qui peut corriger et améliorer durablement une écriture défectueuse.
-header_photo: /uploads/header-1.jpeg
-title: La graphothérapie
+header_photo: /uploads/photos.png
 date: 2020-10-08T22:31:14.077Z
 similar: La dysgraphie
 ---
