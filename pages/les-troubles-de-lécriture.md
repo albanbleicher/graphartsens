@@ -42,7 +42,7 @@ Les perturbations graphiques peuvent avoir plusieurs origines :
    * Une mauvaise posture face à la feuille peut occasionner des tensions ou douleurs dans le dos, dans les épaules, dans le bras, et dans la main.
 
      Ces tensions ou douleurs entraînent à moyen terme une gêne perturbant la concentration et engendrent également une mauvaise tenue du stylo.
-3. \-Mon enfant se désintéresse des activités graphiques préparatoires à l’écriture.
+3. Mon enfant se désintéresse des activités graphiques préparatoires à l’écriture.
 
    * Les premières activités graphiques facilitent la maîtrise des tracés de l’écriture en cours préparatoires.
 4. La latéralité est mal définie : mon enfant est droitier ou gaucher ? 
