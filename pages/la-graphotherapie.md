@@ -18,7 +18,7 @@ similar: La dysgraphie
 ---
 **« La graphothérapie une méthode de rééducation utilisée lorsqu’on rencontre des problèmes pour écrire »**
 
-**1 -Qu’est que la graphothérapie ou rééducation de l’écriture ?**
+**Qu’est que la graphothérapie ou rééducation de l’écriture ?**
 
 C’est une **approche thérapeutique douce** visant à **réconcilier enfants, adolescents et adultes avec leur écriture.**
 
@@ -32,7 +32,7 @@ La graphothérapie permet **de se réapproprier une écriture harmonieuse et co
 
 La graphothérapie utilise des **techniques de relaxation** et des **exercices ludiques, sensoriels, moteurs et cognitifs** pour aider la personne à retrouver confiance et plaisir dans son écriture.
 
-**2 - Pourquoi et quand consulter un graphothérapeute?**
+**Pourquoi et quand consulter un graphothérapeute?**
 
 **« (re)donner le plaisir d’écrire »**
 
@@ -58,15 +58,15 @@ Aussi, quand la graphie de l’enfant est déficiente, non automatisée, cela pe
 
 Il est donc important de **ne pas minimiser le problème** et de prendre rapidement les choses en main.
 
-N’hésitez donc pas à demander à un rendez-vous à l’enseignant de votre enfant. Il est primordial que l’enfant, ou l’adolescent entende qu’il a sans doute besoin d’une rééducation axée sur son écriture. Souvent, les enseignants sont très attentifs pour aider l’enfant à atténuer ce trouble et encourager une scolarité sereine.
+Il est primordial que l’enfant, ou l’adolescent entende qu’il a sans doute besoin d’une rééducation axée sur son écriture.
 
 La graphothérapie est une thérapie brève qui peut corriger et améliorer durablement une écriture défectueuse.
 
 Une prise en charge individualisée en graphothérapie peut, **en peu de séances,** corriger et améliorer durablement une écriture défectueuse.
 
-**3 - Pour qui s’adresse la rééducation de l’écriture ?**
+**Pour qui s’adresse la rééducation de l’écriture ?**
 
-A toute personne (enfant, adolescents, adultes) en difficulté avec son écriture et désireuse de (re) trouver le plaisir d’écrire. *Insérer photos du bras « retrouver le plaisir d’écrire »*
+A toute personne (enfant, adolescents, adultes) en difficulté avec son écriture et désireuse de (re) trouver le plaisir d’écrire. 
 
 Les troubles d’écriture sont variables selon les individus, les perturbations peuvent aller de la simple maladresse à écrire une lettre ou un chiffre à l’incapacité complète d’écrire. 
 
@@ -84,6 +84,6 @@ Quand les perturbations sont prononcées et associées, on parle de trouble dysg
 
 Il n’est pas nécessaire d’être dysgraphique pour suivre une rééducation.
 
-Une rééducation de l’écriture est possible dès **le cours préparatoire** (il est possible de faciliter le geste d’écriture en travaillant les prérequis en grande section maternelle, voir les ateliers coup de pouce clic**) jusqu’à la faculté.**
+Une rééducation de l’écriture est possible dès **le cours préparatoire** (il est possible de faciliter le geste d’écriture en travaillant les prérequis en grande section maternelle, **jusqu’à la faculté.**
 
 Un trouble graphique peut constituer **une gêne sérieuse** pour le reste de la scolarité de l’enfant et même pour sa vie d’adulte (passage de concours, choix d’un métier, insertion socio-professionnelle…).
