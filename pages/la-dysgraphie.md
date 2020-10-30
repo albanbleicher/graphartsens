@@ -1,6 +1,7 @@
 ---
 isInMenu: false
 isOnHomepage: true
+title: La dysgraphie
 excerpt: >-
   « L’écriture d’un enfant, d’un adolescent dysgraphique manque souvent de
   lisibilité, c’est un peu comme si un droitier écrivait avec sa main gauche »
@@ -10,8 +11,7 @@ excerpt: >-
 
 
   La dysgraphie est une mauvaise organisation de l’écriture manuscrite combinant souvent une altération de l’écriture, des troubles spatiaux, des difficultés syntaxiques, un désintérêt pour l’écriture.
-header_photo: /uploads/header-1.jpeg
-title: La dysgraphie
+header_photo: /uploads/photo2.png
 date: 2020-10-08T23:05:06.048Z
 similar: La dysgraphie
 ---
