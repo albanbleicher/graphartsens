@@ -11,18 +11,36 @@ sessions_content: >-
   Faisons connaissance. 30 min service gratuit.
 
 
-  Je vous propose un premier contact téléphonique pour vous expliquer mon approche et répondre à vos questions. Nous aurons ainsi l’occasion d’échanger afin de voir comment je peux vous aider. Ce contact n'implique aucun engagement de votre part sur un suivi ultérieur. Il me permet d'écouter vos besoins et ceux de votre enfant. Cette première étape se fait par téléphone. Vous devez simplement réserver un créneau parmi ceux disponibles dans le calendrier de réservation, au moins 48h à l'avance. Vous recevrez alors un mail de confirmation et il ne restera plus qu'à m'appeler à l'heure du rendez-vous. 
+  Je vous propose un premier **contact téléphonique** pour vous expliquer mon approche et répondre à vos questions. Nous aurons ainsi l’occasion d’échanger afin de voir comment je peux vous aider. Ce contact n'implique aucun engagement de votre part sur un suivi ultérieur. Il me permet d'écouter vos besoins et ceux de votre enfant. 
 
 
-  Lors de cet entretien, nous allons : - Faire le point sur votre situation actuelle et/ou celle de votre enfant ; - Définir vos attentes et vos besoins et/ou ceux de votre enfant ou adolescent; - Échanger sur ma pratique et ce qui conviendrait le mieux à la situation ; - Répondre à toutes vos questions ; -De vous (ré)orienter vers un(e) confrère susceptible de vous apporter une aide complémentaire ; - De fixer une intervention pédagogique auprès de vos équipes éducatives ou votre association de parents.
+  Lors de cet entretien, nous allons : 
 
 
-  Ce premier contact téléphonique vous permettra de vous rassurer et d’envisager une prise en charge avec sérénité.
+  \- Faire le point sur votre situation actuelle et/ou celle de votre enfant; 
+
+
+  \- Définir vos attentes et vos besoins et/ou ceux de votre enfant ou adolescent; 
+
+
+  \- Échanger sur ma pratique et ce qui conviendrait le mieux à la situation; 
+
+
+  \- Répondre à toutes vos questions; 
+
+
+  \- Vous (ré)orienter vers un(e) confrère susceptible de vous apporter une aide complémentaire le cas échéant;
+
+
+  \- Fixer une intervention pédagogique auprès de vos équipes éducatives ou de votre association de parents.
+
+
+  Ce premier contact téléphonique vous permettra de vous rassurer et d’envisager une prise en charge à mes cotés avec sérénité.
 tarifs:
-  - sessions_tarif_name: Au cabinet
+  - sessions_tarif_name: A mon bureau
     sessions_tarif_desc: Séance de graphothérapie dans mon cabinet.
     sessions_tarif_price: "45"
-  - sessions_tarif_name: À domicile
+  - sessions_tarif_name: À votre domicile
     sessions_tarif_desc: Séance de graphothérapie à domicile, matériel inclus
     sessions_tarif_price: "50"
   - sessions_tarif_name: Atelier coup de pouce
