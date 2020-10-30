@@ -59,7 +59,7 @@ Les perturbations graphiques peuvent avoir plusieurs origines :
    * Les devoirs ne sont pas terminés, les points peuvent être enlevés à cause d’un travail non fini. La prise de note est laborieuse et trop coûteuse en énergie.
 8. Le rythme de l’écriture oscille entre accélération et lenteur.
 
-   *  L’enfant ne parvient pas conserver un rythme d’écriture fluide et régulier.
+   * L’enfant ne parvient pas conserver un rythme d’écriture fluide et régulier.
 9. L’écriture est illisible et l’enseignant et l’enfant lui-même n’arrive pas à la relire.
 
    * Les lettres ne sont pas bien formées, non conformes au modèle scolaire. Les espacements irréguliers, les lignes mal tenues. L’écriture devient peu lisible. Un désordre dans l’écriture peut pénaliser un élève. Bien écrire permet de se relire, donc de voir ses erreurs et les corriger.
@@ -93,31 +93,3 @@ Les perturbations graphiques peuvent avoir plusieurs origines :
 19. Le jeune est démotivé à l’école et ressent un sentiment d’infériorité
 
     * Parfois une intervention sur l’écriture (jeux d’écriture, écriture créative..) peut améliorer les résultats scolaires et permettre à l’enfant de retrouver confiance en ses capacités, à mieux exploiter et exprimer ses potentialités.
-
-**Quelles sont les causes d’une déficience de l’écriture ?**
-
-Savoir écrire n’est pas un processus inné comme la marche.
-
-L’écriture manuscrite est **un acte complexe** mobilisant, comme la lecture, beaucoup de fonctions au **niveau du cerveau** (attention, concentration, mémorisation, organisation spatiale, planification des tâches…) et des **compétences corporelles et motrices** (motricité globale, motricité fine).
-
-Son apprentissage demande de **la patience, du temps, c’est avec de l’entrainement et des répétitions.** Progressivement l’écriture va **s’automatiser**.
-
-Parfois, certains enfants ne parviennent pas à trouver un équilibre et une aisance graphique et conservent des maladresses.
-
-Les perturbations graphiques peuvent avoir plusieurs origines :
-
-\-Une mauvaise tenue de stylo
-
-\-Un problème de latéralité
-
-\-Des pré-requis graphiques fragiles ou mal assimilés
-
-\-Des gestes archaïques mal acquis
-
-\-Une situation familiale ou scolaire difficile à vivre
-
-\-Une pathologie ou un accident qui affecte la motricité fine
-
-\-Elles peuvent cacher des symptômes de dyspraxie, précocité intellectuelle, trouble de l’attention, précocité…
-
-\-Elles sont souvent rattachées à d’autres dysfonctionnements tels que la dyslexie, dysorthographie, troubles visuels
