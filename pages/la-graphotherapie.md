@@ -80,7 +80,7 @@ De manière générale, on identifie que :
 
 \-Une écriture en décalage avec la maturité intellectuelle
 
-Quand les perturbations sont prononcées et associées, on parle de trouble dysgraphique (en savoir plus) (celui-ci est déterminé par une cotation précise).
+Quand les perturbations sont prononcées et associées, on parle de trouble dysgraphique (celui-ci est déterminé par une cotation précise).
 
 Il n’est pas nécessaire d’être dysgraphique pour suivre une rééducation.
 
