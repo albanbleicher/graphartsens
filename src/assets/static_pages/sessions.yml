@@ -87,8 +87,6 @@ sessions_content: >-
   Au cours des séances, la rééducation **est ajustée en fonction des besoins, des ressentis et des progrès de la personne**. Chaque semaine, **je veillerai à l’ancrage des bons gestes**. Pour se faire, je donne **des petits exercices à faire tous les jours pendant 10 mn** à la maison.
 
 
-
-
   ### **Combien de temps dure une rééducation ?**
 
 
@@ -99,13 +97,15 @@ sessions_content: >-
 
 
   Un rendez-vous, trois mois après la rééducation ou avant chaque grande transition scolaire, est recommandé pour vérifier que le bon geste d’écriture soit stabilisé.
-tarifs:
-  - sessions_tarif_name: Atelier coup de pouce
-    sessions_tarif_desc: >-
-      Se préparer à l’écriture : afin de booster les prérequis de mon enfant en
-      fin de maternelle et au début du CP, pour l’aider dans l’écriture. Séances
-      en présentielle. Possibilité de séance pendant les vacances scolaires. 
 
 
-      **1 séance quotidienne de 30 minutes pendant 5 jours (lundi au vendredi).**
-    sessions_tarif_price: "100"
+
+
+  ### Atelier "Coup de Pouce" 
+
+
+  Destiné aux plus jeunes, il a pour but de préparer votre enfant à l’écriture, de booster les prérequis  de fin de maternelle et de début du CP. Séances en présentielle. Possibilité de séance pendant les vacances scolaires. 
+
+
+  **1 séance quotidienne de 30 minutes pendant 5 jours (lundi au vendredi).**
+tarifs: []
