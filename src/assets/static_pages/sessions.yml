@@ -38,6 +38,8 @@ sessions_content: >-
   Ce premier contact téléphonique vous permettra de vous rassurer et d’envisager une prise en charge à mes cotés avec sérénité.
 
 
+
+
   ### Le bilan graphomoteur
 
 
@@ -83,13 +85,21 @@ sessions_content: >-
 
 
   Au cours des séances, la rééducation **est ajustée en fonction des besoins, des ressentis et des progrès de la personne**. Chaque semaine, **je veillerai à l’ancrage des bons gestes**. Pour se faire, je donne **des petits exercices à faire tous les jours pendant 10 mn** à la maison.
+
+
+
+
+  ### **Combien de temps dure une rééducation ?**
+
+
+  La durée d’une rééducation dépend des perturbations graphiques initiales et de l’implication et de la motivation pendant et entre les séances. Elle dure généralement plusieurs semaines (en moyenne entre 8 et 15 séances). L’évolution de l’écriture (régularité, lisibilité, vitesse) mais aussi du geste et de la posture sera évaluée après quelques séances, via la réalisation de nouveaux tests.
+
+
+  Il est nécessaire que l’enfant ait **intégré et installé des nouvelles habitudes** d’écriture avant d’envisager la fin du processus de la rééducation.
+
+
+  Un rendez-vous, trois mois après la rééducation ou avant chaque grande transition scolaire, est recommandé pour vérifier que le bon geste d’écriture soit stabilisé.
 tarifs:
-  - sessions_tarif_name: A mon bureau
-    sessions_tarif_desc: Séance de graphothérapie dans mon cabinet.
-    sessions_tarif_price: "45"
-  - sessions_tarif_name: À votre domicile
-    sessions_tarif_desc: Séance de graphothérapie à domicile, matériel inclus
-    sessions_tarif_price: "50"
   - sessions_tarif_name: Atelier coup de pouce
     sessions_tarif_desc: >-
       Se préparer à l’écriture : afin de booster les prérequis de mon enfant en
