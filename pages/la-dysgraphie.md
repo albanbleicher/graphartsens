@@ -15,11 +15,9 @@ header_photo: /uploads/photo2.png
 date: 2020-10-08T23:05:06.048Z
 similar: La dysgraphie
 ---
-Qu’est-ce que la dysgraphie ?
+### Qu’est-ce que la dysgraphie ?
 
-« L’écriture d’un enfant, d’un adolescent dysgraphique manque souvent de lisibilité, c’est un peu comme si un droitier écrivait avec sa main gauche »
-
-![](/uploads/sans-titre.png)
+*« L’écriture d’un enfant, d’un adolescent dysgraphique manque souvent de lisibilité, c’est un peu comme si un droitier écrivait avec sa main gauche »*
 
 C’est la difficulté d’écrire correctement. Attention on ne parle pas ici d’orthographe ou de grammaire.
 
@@ -33,7 +31,9 @@ La dysgraphie est donc un trouble persistant de l’expression écrite.
 
 Selon le professeur Julian De Ajuriaguerra, médecin psychiatre : « Est dysgraphique tout enfant dont la qualité de l’écriture est déficiente alors qu’aucun déficit neurologique important ou intellectuel n’explique cette déficience »
 
-Qui est concerné par la dysgraphie ?
+
+
+### Qui est concerné par la dysgraphie ?
 
 Tout le monde peut être concerné par la dysgraphie, mais cette perturbation concerne surtout les plus jeunes.
 
