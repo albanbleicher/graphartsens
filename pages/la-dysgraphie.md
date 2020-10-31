@@ -31,7 +31,7 @@ La dysgraphie est donc un trouble persistant de l’expression écrite.
 
 Selon le professeur Julian De Ajuriaguerra, médecin psychiatre : « Est dysgraphique tout enfant dont la qualité de l’écriture est déficiente alors qu’aucun déficit neurologique important ou intellectuel n’explique cette déficience »
 
-
+![](/uploads/dysgraphie.png)
 
 ### Qui est concerné par la dysgraphie ?
 
