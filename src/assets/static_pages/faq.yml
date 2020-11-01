@@ -81,4 +81,10 @@ faq_desc: >-
 
 
   La graphothérapie ou rééducation de l’écriture essaye de comprendre pourquoi une écriture se bloque, se crispe, ralentit ou n’est pas fluide. Elle pose un diagnostic précis sur les potentialités et les perturbations graphiques et propose un plan de rééducation.
-questions: []
+questions:
+  - question_name: Quelles sont les étapes qu’un enfant doit franchir pour être prêt
+      pour commencer l’écriture en CP ?
+    question_response: Il est primordial d’aborder les formes pré-scripturales à
+      l’école maternelle par le biais du jeu, de la manipulation et de
+      l’expérimentation. Il faut un entrainement quotidien sur ces gestes
+      graphiques.
