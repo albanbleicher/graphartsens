@@ -108,4 +108,7 @@ sessions_content: >-
 
 
   **1 séance quotidienne de 30 minutes pendant 5 jours (lundi au vendredi).**
-tarifs: []
+tarifs:
+  - sessions_tarif_name: test
+    sessions_tarif_desc: test
+    sessions_tarif_price: test
