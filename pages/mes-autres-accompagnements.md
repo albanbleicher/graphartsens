@@ -1,7 +1,7 @@
 ---
 isInMenu: true
 isFooterMenu: true
-isOnHomepage: true
+isOnHomepage: false
 title: Mes autres accompagnements
 excerpt: "  "
 header_photo: /uploads/photo-2020-11-01-09-49-42.jpg
