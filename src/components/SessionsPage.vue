@@ -3,7 +3,7 @@
         <h1>{{data.title}}</h1>
         <div v-html="html_content"></div>
 
-        <div class="tarifs">
+        <div v-if='data.tarifs' class="tarifs">
             <div v-for='item in data.tarifs' :key='item.sessions_tarif_name' class="tarif-element">
                 <div class="tarif-header">
                     <h3>{{item.sessions_tarif_name}}</h3>
