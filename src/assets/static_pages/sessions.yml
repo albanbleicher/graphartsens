@@ -112,3 +112,6 @@ tarifs:
   - sessions_tarif_name: test
     sessions_tarif_desc: test
     sessions_tarif_price: test
+testimonials:
+  - testi_audio: /uploads/test-vocal.m4a
+    author: Test vocal
