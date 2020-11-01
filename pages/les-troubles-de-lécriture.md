@@ -32,9 +32,9 @@ Les perturbations graphiques peuvent avoir plusieurs origines :
 
 \-Elles peuvent cacher des symptômes de dyspraxie, précocité intellectuelle, trouble de l’attention, précocité…
 
-\-Elles sont souvent rattachées à d’autres dysfonctionnements tels que la dyslexie, dysorthographie, troubles visuels
+\-Elles sont souvent rattachées à d’autres dysfonctionnements tels que la dyslexie, dysorthographie, troubles visuels.
 
-
+![](/uploads/prehension.png)
 
 ### **Quelques signes de vigilance pour consulter un graphothérapeute**
 
