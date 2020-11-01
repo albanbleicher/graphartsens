@@ -2,7 +2,7 @@
 isInMenu: true
 title: Les troubles de l'écriture
 excerpt: " "
-header_photo: /uploads/img_6513.jpg
+header_photo: /uploads/arthur.png
 date: 2020-10-08T23:01:19.701Z
 similar: La graphothérapie
 ---
