@@ -11,7 +11,7 @@ excerpt: >-
 
 
   La dysgraphie est une mauvaise organisation de l’écriture manuscrite combinant souvent une altération de l’écriture, des troubles spatiaux, des difficultés syntaxiques, un désintérêt pour l’écriture.
-header_photo: /uploads/img_6513.jpg
+header_photo: /uploads/troubles.png
 date: 2020-10-08T23:05:06.048Z
 similar: La dysgraphie
 ---
