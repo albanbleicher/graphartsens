@@ -8,4 +8,6 @@ header_photo: /uploads/sans-titre.png
 date: 2020-10-31T14:42:07.239Z
 similar: Tarifs et contacts
 ---
-![](/uploads/tarif.png)
+![](/uploads/tarif.png "Tarif des séances")
+
+![](/uploads/tarif-bilan.png "Tarif des bilans")
