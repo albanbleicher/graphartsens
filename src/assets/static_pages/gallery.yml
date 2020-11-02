@@ -1,0 +1,13 @@
+title: Mes accompagnements en image
+content: Voici un aperçu en images de mes accompagnements.
+gallery:
+  - desc: test
+    image: /uploads/dysgraphie.png
+  - desc: test 2
+    image: /uploads/photo-2020-11-01-09-49-42.jpg
+  - desc: test 3
+    image: /uploads/img_4556.jpg
+  - desc: test 4
+    image: /uploads/sans-titre.png
+  - desc: test 5
+    image: /uploads/photo2.png
