@@ -5,6 +5,7 @@
         <SessionsPage v-if='isSessions' :data="$page.data" />
         <FaqPage v-if='isFaq' :data="$page.data" />
         <LegalPage v-if='isLegal' :data="$page.data" />
+        <AccPage v-if='isAcc' :data="$page.data" />
       </div>
    </Layout>
 </template>
@@ -14,6 +15,12 @@ query getSettingPageContent($path: String!) {
     title
     id
     content 
+    header_photo
+
+    gallery {
+          desc
+          image
+        }
 
     about_photo
     about_content
@@ -21,16 +28,16 @@ query getSettingPageContent($path: String!) {
       about_diplome_name
     }
 
-    sessions_content
-      tarifs {
-          sessions_tarif_name
-          sessions_tarif_desc
-          sessions_tarif_price
-        }
+  testimonials {
+    testi_audio
+   author
+   }
+   sessions_content
     faq_desc
       	questions {
           question_name
           question_response
+          audio
         }
   }
 }
@@ -41,12 +48,14 @@ import AboutPage from '@/components/AboutPage'
 import SessionsPage from '@/components/SessionsPage'
 import FaqPage from '@/components/FaqPage'
 import LegalPage from '@/components/LegalPage'
+import AccPage from '@/components/AccPage'
 export default {
   components: {
     AboutPage,
     SessionsPage,
     FaqPage,
-    LegalPage
+    LegalPage,
+    AccPage
   },
   metaInfo() {
     return {
@@ -58,15 +67,22 @@ export default {
       isAbout:null,
       isSessions:null,
       isFaq:null,
-      isLegal:null
+      isLegal:null,
+      isAcc:false
     } 
   },
   mounted() {  
     console.log(this)
     this.togglePage()
+  document.querySelector('.layout').style.backgroundImage='linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url('+this.$page.data.header_photo+')';
+document.querySelector('.layout').style.backgroundPosition='top'
+
   },
   updated() {
     this.togglePage()
+  document.querySelector('.layout').style.backgroundImage='linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url('+this.$page.data.header_photo+')';
+document.querySelector('.layout').style.backgroundPosition='top'
+
   },
   methods: {
     togglePage() {
@@ -76,26 +92,37 @@ export default {
         this.isSessions=false;
         this.isFaq = false;
         this.isLegal=false;
+        this.isAcc=false;
       break;
       case "100f801785f5bca731ce346dcbdc6982": 
         this.isSessions=true;
         this.isAbout=false;
         this.isFaq=false;
         this.isLegal=false;
+        this.isAcc=false;
       break;
       case "773670555fad69780a5e77ec922c0f45": 
         this.isSessions=false;
         this.isAbout=false;
         this.isFaq=true;
         this.isLegal=false;
+        this.isAcc=false;
         break;
-        case "5dbd6e66c898476984ca834bd4d78281": {
+        case "5dbd6e66c898476984ca834bd4d78281": 
           this.isSessions=false;
         this.isAbout=false;
         this.isFaq=false;
         this.isLegal=true;
+        this.isAcc=false;
+        break;
+        case "86b1533bde4591da37553f4708c92f7d": 
+          this.isSessions=false;
+        this.isAbout=false;
+        this.isFaq=false;
+        this.isLegal=false;
+        this.isAcc=true;
         }
-    }
+        
     }
   }
 }

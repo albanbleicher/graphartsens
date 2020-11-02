@@ -49,6 +49,18 @@ module.exports = {
       }
     },
     {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'src/assets/menus/*.yml',
+        typeName: 'Menus',
+        remark: {
+          plugins: [
+            // ...local plugins
+          ]
+        }
+      }
+    },
+    {
       use: `gridsome-plugin-netlify-cms`,
       options: {
         publicPath: `/admin`
@@ -60,6 +72,7 @@ module.exports = {
     Blog: '/blog/:title',
     ContentPage: '/pages/:title',
     SettingPage: '/:title',
+    Menus: '/sitemap/:title'
   },
   transformers: {
     remark: {

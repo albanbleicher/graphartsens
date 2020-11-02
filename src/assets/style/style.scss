@@ -227,19 +227,24 @@ section {
     }
 }
 .footer {
-    background-color: #212121;
+    background-color: skyblue;
     padding: 40px 60px;
-    color: white;
+    color: #212121;
     text-align: center;
     font-size: 10px;
+  
     p {
         a {
-            color: white;
+            color: #212121;
         }
     }
     .footerModules {
         display:flex;
         justify-content: space-between;
+        align-items: center;
+        div {
+            width: 30%;
+        }
         .footerInfos {
             text-align: right;
             font-size: 16px;
@@ -247,28 +252,31 @@ section {
                 margin-top: 0;
             }
         }
-        .footerMenu {
-            ul {
-                list-style: none;
-                margin:0;
-                padding: 0;
-                text-align: left;
-                font-size: 16px;
-                li {
-                    margin-bottom: 15px;
-                    &:last-child {
-                        margin-bottom: 0;
-                    }
-                    a {
-                        color: white;
-                        text-decoration: none;
-                    }
-                }
+        .title {
+            text-align: center;
+            h3 {
+                font-size: 25px;
+                text-transform: uppercase;
             }
+            p {
+                font-size: 20px;
+                color:green;
+
+            }
+
+        }
+        .footerMenu {
+            img {
+                width: 80%;
+               
+            }
+            text-align: left;
+            font-size: 20px;
         }
     }
 }
 .page {
+    margin-top: 20vh;
     background-color: #fff;
     padding: 50px 200px;
     color:#525252;
@@ -279,6 +287,9 @@ section {
     @media only screen and (max-width:500px) {
         padding: 50px;
     }
+    img {
+        width: 100%;
+    }
     ol {
         list-style: none;
         color: white;
@@ -287,8 +298,23 @@ section {
     }
     ol {
         &>li  {
+            &:nth-child(1n) {
+                >p {
+                    background-color: rgb(181, 232, 252);
+                }
+            }
+            &:nth-child(2n) {
+                >p {
+                    background-color: #fafcc2;
+                }
+            }
+            &:nth-child(3n) {
+                >p {
+                    background-color: #f6d6ad;
+                }
+            }
             >p {
-                background-color: $main;
+                color: #212121;
                 padding: 20px 50px;
                 cursor: pointer;
                 transition: opacity 0.3s;
@@ -326,20 +352,50 @@ section {
         .about_card {
             display: flex;
             justify-content: space-between;
+            @media only screen and (max-width:660px) {
+                flex-wrap: wrap;
+            justify-content: center;
+
+           align-items: center;
+
+            }
+
             img {
                 width: 20vw;
                 height: 20vw;
                 object-fit: cover;
                 object-position: center;
                 border-radius: 100%;
+    @media only screen and (max-width:660px) {
+        width: 50vw;
+        height: 50vw;
+    }
             }
             .content {
                 width: calc(95% - 20vw);
                 text-align: justify;
+                @media only screen and (max-width:660px) {
+                    width: 100%;
+                }
             }
         }
         .diplomes {
             margin-top: 100px;
+        }
+    }
+    .gallery {
+        .gallery-block {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+
+            .gallery-element {
+                width: 40%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+            }
         }
     }
     .faq {
@@ -347,14 +403,31 @@ section {
             margin:0;
             padding: 0;
             list-style: none;
+            li {
+                &:nth-child(1n) {
+                    .question_block .question {
+                        background-color: skyblue;
+                    }
+                }
+                &:nth-child(2n) {
+                    .question_block .question {
+                        background-color: #fafcc2;
+                    }
+                }
+                &:nth-child(3n) {
+                   .question_block .question {
+                        background-color: #f6d6ad;
+                    }
+                }
+            }
             .question_block {
                 padding-bottom: 10px;
+                
                 .question {
                     padding:20px;
-                    background-color: $main;
-                    color: white;
+                    color: #212121;
                     font-weight: bold;
-                    white-space: nowrap;
+                    white-space: pre-wrap;
                     cursor: pointer;
                     transition: opacity 0.5s;
                     display: flex;
@@ -377,6 +450,12 @@ section {
         }
     }
     .sessions {
+        .testimonials {
+            margin-top: 100px;
+            .testimonial-element {
+                margin-top: 70px;
+            }
+        }
         .tarifs {
             display: flex;
             justify-content: space-between;

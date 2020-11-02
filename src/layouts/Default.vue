@@ -17,14 +17,19 @@
   <div class="footer">
      <div class="footerModules">
         <div class="footerMenu">
-        <!-- <ul>
-          <li>Blog</li>
-          <li><a href="#">Questions fréquentes</a></li>
-        </ul> -->
+       <img :src="require('@/assets/images/card.png')" alt="Carte de visite">
+       <br>
+        <span><a href="mailto:ecv-graphartsens@orange.fr">ecv-graphartsens@orange.fr</a></span>
+
+      </div>
+      <div class="title">
+        <h3>Me contacter</h3>
+        <p>accompagnement à mon bureau ou à votre domicile</p>
       </div>
       <div class="footerInfos">
-        <h2>Contact</h2>
-        <p>06 87 32 17 90</p>
+       <img style="width:200px" :src="require('@/assets/images/contact.png')" alt="Contact">
+
+        <p>☎ 06 87 32 17 90</p>
       </div>
      </div>
       <p>Estelle Charneau-Vachez | Graphothérapeute - Graph Art Sens — Tous droits réservés - <a href="/mentions-legales">Mentions légales</a></p>
@@ -34,7 +39,7 @@
 
 <static-query>
 query getMenu {
-  menu:allContentPage(sortBy: "title", order: DESC, filter: {isInMenu: {eq:true}}) {
+  menu:allContentPage(sortBy: "title", order: ASC, filter: {isInMenu: {eq:true}}) {
     edges {
       node {
         title
@@ -43,7 +48,7 @@ query getMenu {
       }
     }
   }
-  menu:allContentPage(sortBy: "title", order: DESC, filter: {isInMenu: {eq:true}}) {
+  menu:allContentPage(sortBy: "title", order: ASC, filter: {isInMenu: {eq:true}}) {
     edges {
       node {
         title

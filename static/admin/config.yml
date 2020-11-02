@@ -6,6 +6,30 @@ media_folder: "static/uploads"
 public_folder: "/uploads"
 locale: 'fr'
 collections:
+  # - name: "menus"
+  #   label: "Menus"
+  #   editor: 
+  #     preview: false 
+  #   files:
+  #     - label: "Menu de l'en-tête"
+  #       name: "header_menu"
+  #       file: "src/assets/menus/header_menu.yml"
+  #       slug: "{{slug}}"
+  #       fields:
+  #       - label: "Pages de contenu"
+  #         hint: "Je séléctionne des pages parmi les pages de contenu"
+  #         name: "menu_list_contet"
+  #         collapsed: false
+  #         widget: "list"
+  #         summary: '{{fields.page.title}}'
+  #         field: {label: "Page", name: "page", widget: "relation", collection: "pages", search_fields: ["title"], value_field: "title", display_fields: ["title"]}
+  #       - label: "Pages d'informations"
+  #         hint: "Je séléctionne des pages parmi les pages d'informations"
+  #         name: "menu_list_infos"
+  #         collapsed: false
+  #         widget: "list"
+  #         summary: '{{fields.page.title}}'
+  #         field: {label: "Page", name: "page", widget: "relation", collection: "settings", search_fields: ["title"], value_field: "title", display_fields: ["title"]}
   - name: "posts"
     label: "Article"
     folder: "posts"
@@ -40,13 +64,25 @@ collections:
         search_fields: ["title"]
         value_field: "title"
         display_fields: ["title"]
-    collections:
-
-  - label: "Informations"
-    name: "settings"
+  - name: "settings"
+    label: "Informations"
     editor: 
       preview: false 
     files:
+      - label: "Mes accompagnements en images "
+        name: "gallery"
+        file: "src/assets/static_pages/gallery.yml"
+        slug: "{{slug}}"
+        fields:
+          - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false, required: false}
+          - {label: "Titre de la page", name: "title", widget: "string"}
+          - {label: "Texte de présentation", name: "content", widget: "markdown"}
+          - label: "Images"
+            name: gallery
+            widget: list
+            fields:
+              - {label: Description de l'image, name: desc, widget: string}
+              - {label: "Image", name: image,required:false, widget: image}
       - label: "Qui-suis-je ?"
         name: "about"
         file: "src/assets/static_pages/who.yml"
@@ -73,13 +109,26 @@ collections:
           - {label: "Image d'en-tête", name: header_photo,required:false, widget: image}
           - {label: "Titre de la page", name: title, widget: string}
           - {label: "Présentations des séances", name: sessions_content, widget: markdown}
-          - label: "Tarifs"
-            name: tarifs
-            widget: list
+          - label: "avis"
+            name: "testimonials"
+            widget: "list"
+            summary: '{{fields.author.name}}'
             fields:
-              - {label: Intitulé du tarif, name: sessions_tarif_name, widget: string}
-              - {label: "Description du tarif", name: "sessions_tarif_desc", widget: "markdown"}
-              - {label: "Montant", name: sessions_tarif_price, widget: string}
+              - {label: "Intitulé du témoignage",
+                name: author,
+                widget: string}
+              - {label: "Fichier audio du témoignage",
+                name: "testi_audio",
+                widget: "file",
+                }
+                
+          # - label: "Tarifs"
+          #   name: tarifs
+          #   widget: list
+          #   fields:
+          #     - {label: Intitulé du tarif, name: sessions_tarif_name, widget: string}
+          #     - {label: "Description du tarif", name: "sessions_tarif_desc", widget: "markdown"}
+          #     - {label: "Montant", name: sessions_tarif_price, widget: string}
       - label: "Questions fréquentes"
         name: "faq"
         file: "src/assets/static_pages/faq.yml"
@@ -97,6 +146,11 @@ collections:
             fields:
               - {label: Question, name: question_name, widget: string}
               - {label: "Réponse", name: question_response, widget: "string"}
+              - {label: "Version audio de la réponse",
+                required: false,
+                name: "audio",
+                widget: "file",
+                }
       - label: "Mentions légales"
         name: "legal"
         file: "src/assets/static_pages/legal.yml"
@@ -104,6 +158,3 @@ collections:
         fields:
           - {label: "Titre de la page", name: title, widget: string}
           - {label: "Contenu des mentions légales", name: "content", widget: "markdown"}
-
-          
-      

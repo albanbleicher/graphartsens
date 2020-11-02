@@ -19,7 +19,7 @@
 </template>
 <static-query>
 query getExcerpts {
-  content:allContentPage(filter: {isOnHomepage: {eq:true}}) {
+  content:allContentPage(filter: {isOnHomepage: {eq:true}}, order:ASC) {
     edges {
       node {
         title

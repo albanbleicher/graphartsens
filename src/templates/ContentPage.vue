@@ -27,11 +27,13 @@ mounted() {
   this.addListeners()
   console.log(this)
   document.querySelector('.layout').style.backgroundImage='linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url('+this.$page.data.header_photo+')';
+document.querySelector('.layout').style.backgroundPosition='top'
+
 },
 updated() {
   this.addListeners()
   document.querySelector('.layout').style.backgroundImage='linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url('+this.$page.data.header_photo+')';
-
+document.querySelector('.layout').style.backgroundPosition='top'
 },
 methods: {
    addListeners() {
