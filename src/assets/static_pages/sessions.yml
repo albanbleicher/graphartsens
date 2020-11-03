@@ -112,5 +112,5 @@ tarifs:
     sessions_tarif_desc: test
     sessions_tarif_price: test
 testimonials:
-  - testi_audio: /uploads/test-vocal.m4a
-    author: Test vocal
+  - testi_audio: /uploads/audio-2020-11-03-18-52-25.m4a
+    author: Siméon - Elève de CM2
