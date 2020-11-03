@@ -14,10 +14,7 @@
             {{ question.question_response }}
             <br>
             <br>
-            <audio v-if="question.audio" controls>
-          <source :src="question.audio" type="audio/mpeg" />
-          Your browser does not support the audio tag.
-        </audio>
+            <audio v-if="question.audio" :src="question.audio" type="audio/mpeg" controls> </audio>
           </div>
         </div>
       </li>

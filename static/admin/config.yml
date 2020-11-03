@@ -76,6 +76,7 @@ collections:
         fields:
           - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false, required: false}
           - {label: "Titre de la page", name: "title", widget: "string"}
+          - {label: "Image d'en-tête", name: header_photo,required:false, widget: image}
           - {label: "Texte de présentation", name: "content", widget: "markdown"}
           - label: "Images"
             name: gallery
