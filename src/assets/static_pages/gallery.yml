@@ -2,10 +2,10 @@ isInMenu: true
 title: Mes accompagnements en image
 content: Voici un aperçu en images de mes accompagnements.
 gallery:
-  - desc: test
-    image: /uploads/dysgraphie.png
-  - desc: test 2
-    image: /uploads/photo-2020-11-01-09-49-42.jpg
+  - desc: Travail sur les encres
+    image: /uploads/img_20190211_152934.jpg
+  - desc: Approche plastique sensorielle
+    image: /uploads/img_20190311_155015.jpg
   - desc: test 3
     image: /uploads/img_4556.jpg
   - desc: test 4
