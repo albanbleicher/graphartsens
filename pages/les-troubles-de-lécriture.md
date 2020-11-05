@@ -18,21 +18,21 @@ Parfois, certains enfants ne parviennent pas à trouver un équilibre et une ais
 
 Les perturbations graphiques peuvent avoir plusieurs origines :
 
-\-Une mauvaise tenue de stylo
+\- Une mauvaise tenue de stylo
 
-\-Un problème de latéralité
+\- Un problème de latéralité
 
-\-Des pré-requis graphiques fragiles ou mal assimilés
+\- Des pré-requis graphiques fragiles ou mal assimilés
 
-\-Des gestes archaïques mal acquis
+\- Des gestes archaïques mal acquis
 
-\-Une situation familiale ou scolaire difficile à vivre
+\- Une situation familiale ou scolaire difficile à vivre
 
-\-Une pathologie ou un accident qui affecte la motricité fine
+\- Une pathologie ou un accident qui affecte la motricité fine
 
-\-Elles peuvent cacher des symptômes de dyspraxie, précocité intellectuelle, trouble de l’attention, précocité…
+\- Elles peuvent cacher des symptômes de dyspraxie, précocité intellectuelle, trouble de l’attention, précocité…
 
-\-Elles sont souvent rattachées à d’autres dysfonctionnements tels que la dyslexie, dysorthographie, troubles visuels.
+\- Elles sont souvent rattachées à d’autres dysfonctionnements tels que la dyslexie, la dysorthographie, les troubles visuels.
 
 ![](/uploads/prehension.png)
 
