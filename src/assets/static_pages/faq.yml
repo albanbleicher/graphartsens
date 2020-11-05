@@ -10,7 +10,7 @@ questions:
       l’école maternelle par le biais du jeu, de la manipulation et de
       l’expérimentation. Il faut un entrainement quotidien sur ces gestes
       graphiques.
-    audio: /uploads/aud-20201103-wa0007.m4a
+    audio: /uploads/aud-20201105-wa0001-dès-la-maternelle.m4a
   - question_name: Le cas des gauchers ?
     question_response: Les gauchers peuvent avoir une aussi belle écriture qu’un
       droitier. Les difficultés rencontrées ont souvent pour origine un matériel
@@ -18,6 +18,7 @@ questions:
       sens de rotation des lettres. Un vrai gaucher n’a généralement pas de
       difficultés d’écriture si tout est fait pour favoriser la bonne
       utilisation de sa main gauche.
+    audio: /uploads/aud-20201105-wa0002-les-gauchers.m4a
   - question_name: "Quelle réponse apporter en classe ? "
     question_response: Le passage à l’ordinateur, un plan d’accompagnement
       individualisé sont souvent proposés au jeune et à sa famille. Le passage à
@@ -27,6 +28,7 @@ questions:
       capacité à organiser ses idées. Une rééducation de l’écriture et des
       aménagements en classe sont souvent une réponse adaptée à ces
       perturbations.
+    audio: /uploads/aud-20201105-wa0011-passage-à-l-ordi.m4a
   - question_name: Est-ce différent d'un suivi de psychomotricité ?
     question_response: Un psychomotricien et un graphothérapeute ont des champs
       d’actions complémentaires. Pour écrire confortablement il est
@@ -36,17 +38,20 @@ questions:
       peut n’avoir aucun problème psychomoteur et être en difficulté en
       écriture. Je suis diplômée en graphothérapie, formée pendant presque 1an
       au Centre de Formation « Le Geste ».
+    audio: /uploads/aud-20201105-wa0000-psychomotricien.m4a
   - question_name: A quel moment de la journée est-il préférable de faire les séances ?
     question_response: Je démarre toujours mes consultations par une séance par un
       temps de relaxation, ce qui permet de relâcher les tensions, les
       surcharges cognitives des temps scolaires. Je consulte les mercredis et
       les samedis matin et pendant les vacances scolaires. La poursuite des
       séances peut se faire à distance via zoom ou skype.
+    audio: /uploads/aud-20201105-wa0008-demarre-par-relaxation.m4a
   - question_name: Il y a t-il un lien entre précocité et trouble de l'écriture ?
     question_response: Au regard des statistiques, il semblerait que 30 à 50% des
       enfants à Haut Potentiel présentent des troubles de l’écriture. Chez ces
       jeunes il y a un décalage entre leur maturité intellectuelle et leur
       développement psychomoteur et affectif.
+    audio: /uploads/aud-20201105-wa0005-enfants-hp.m4a
   - question_name: Mon enfant est dyslexique, faut-il poursuivre le suivi chez un
       orthophoniste ?
     question_response: Un trouble de l’écriture et une dyslexie coexistent souvent.
@@ -57,22 +62,25 @@ questions:
       beaucoup d’attention de la part de l’enfant, qu’il est en double tâche et
       ne peut se concentrer sur l’orthographe. En facilitant l’acte graphique,
       j’agis sur un pan du problème et l’orthophoniste sur un autre.
+    audio: /uploads/aud-20201105-wa0010-trouble-et-dyslexie.m4a
   - question_name: Et pour les enfants dyspraxiques ?
     question_response: Une prise en charge en rééducation en écriture ne fera pas
       disparaître un trouble dyspraxique. Elle peut apporter un confort dans
       l’écriture, il faut cependant considérer que la rééducation sera plus
       longue.
+    audio: /uploads/aud-20201105-wa0004-trouble-dyspraxiste.m4a
   - question_name: Quels problèmes peut-on rencontrer pendant la rééducation ?
     question_response: Le principal problème peut être un manque de motivation lié
       au sentiment qu’un trouble de l’écriture n’est pas un vrai problème. Le
       jeune aura besoin des encouragements réguliers de sa famille et de son
       enseignant pour réussir sa rééducation.
+    audio: /uploads/aud-20201105-wa0006-manque-de-motivation.m4a
   - question_name: Mon enfant est au collège ou au lycée est-ce trop tard pour
       restaurer son geste d’écriture ?
     question_response: Une rééducation de l’écriture peut se commencer à tout âge.
       La remédiation à l’adolescence sera plus ciblée, la prise en charge plus
       courte dans la durée.
-    audio: /uploads/aud-20201103-wa0002.m4a
+    audio: /uploads/aud-20201105-wa0003-réducation-tout-age.m4a
   - question_name: Quel est l'intérêt de rééduquer une écriture à l'ère du numérique ?
     question_response: Dans une période où l’écriture manuscrite perd chaque jour du
       terrain. Les neurosciences montrent que les deux écritures (manuscrites et
@@ -81,6 +89,7 @@ questions:
       d’activer les zones visuelles et sensori-motrices de notre cerveau, de
       rester indépendant face de toute technologie, de laisser une trace
       singulière de soi.
+    audio: /uploads/aud-20201105-wa0009-ecriture-manuscrite.m4a
   - question_name: Quelle est la différence entre la graphothérapie et la graphologie ?
     question_response: J’entends souvent des confusions entre ces deux activités. La
       graphologie est une méthode d’interprétation qui a pour objectif de
@@ -92,3 +101,4 @@ questions:
       une écriture se bloque, se crispe, ralentit ou n’est pas fluide. Elle pose
       un diagnostic précis sur les potentialités et les perturbations graphiques
       et propose un plan de rééducation.
+    audio: /uploads/aud-20201105-wa0012-graphologie.m4a
