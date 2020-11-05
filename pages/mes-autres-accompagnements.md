@@ -10,8 +10,6 @@ similar: Tarifs et contacts
 ---
 ## **La médiation artistique en relation d’aide**
 
-
-
  ***\- Qu’est-ce que la médiation artistique en relation d’aide ?***
 
 C’est tout d’abord **un support de soin**, qui utilise les bénéfices d’une pratique artistique et créative **pour restaurer un bien-être et renforcer l’estime de soi.**
@@ -26,39 +24,35 @@ Ce mode d’expression non verbale **libère les personnes, amène de la détent
 
  ***\- Pour quelles raisons puis-je utiliser la médiation artistique ?***
 
- <!--\\\\[endif]-->restaurer une confiance en soi,
+ <!--\\\\\[endif]-->Pour restaurer une confiance en soi,
 
- <!--\\\\[endif]-->détourner les peurs,
+ <!--\\\\\[endif]-->détourner ses peurs,
 
- <!--\\\\[endif]-->se détendre, diminuer son stress
+ <!--\\\\\[endif]-->se détendre, diminuer son stress,
 
-<!--\\\\[endif]-->apaiser les difficultés scolaires
+<!--\\\\\[endif]-->apaiser les difficultés scolaires,
 
-<!--\\\\[endif]-->mettre à distance les émotions
+<!--\\\\\[endif]-->mettre à distance les émotions,
 
-<!--\\\\[endif]-->développer les capacités sensorielles, cognitives, comportementales
+<!--\\\\\[endif]-->développer les capacités sensorielles, cognitives, comportementales,
 
-<!--\\\\[endif]-->améliorer les relations avec les autres
+<!--\\\\\[endif]-->améliorer les relations avec les autres,
 
-<!--\\\\[endif]-->apaiser les tensions intérieures
+<!--\\\\\[endif]-->apaiser les tensions intérieures,
 
-<!--\\\\[endif]-->redonner de l’élan à un projet
+<!--\\\\\[endif]-->redonner de l’élan à un projet,
 
-<!--\\\\[endif]-->aider à la résilience
+<!--\\\\\[endif]-->aider à la résilience,
 
-<!--\\\\[endif]-->favoriser l’autonomie
+<!--\\\\\[endif]-->favoriser l’autonomie,
 
-<!--\\\\[endif]-->encourager sa capacité à faire des choix
+<!--\\\\\[endif]-->encourager sa capacité à faire des choix.
 
 En bref, la médiation artistique permet de retrouver du bien-être, renforcer son estime de soi et la confiance en soi et enclencher un processus d’épanouissement.
 
- ***\- A qui s’adresse la médiation artistique ?***
-
-**Tout le monde peut en bénéficier** (enfants, adolescents, jeunes adultes, adultes) à tout âge. Cette technique est accessible à tout le monde et ce **même si on ne sait pas dessiner, même si on pense ne pas être créatif**, il suffit juste de laisser ses idées émerger. Croyez-moi, vous serez surpris par votre super pouvoir créatif !
-
  ***\- Comment je procède ?*** 
 
-Pour le premier atelier qui dure environ 1h30, je réalise une fiche d’ouverture sur laquelle je note les facultés, les difficultés, les besoins. Je retrace l’historique de la perturbation. Je remplis un questionnaire visant à déterminer ses goûts et ses centres d’intérêts. Je propose une courte activité créatrice pour clôturer cette première séance.
+Pour le premier atelier qui dure environ 1h30, je réalise une fiche d’ouverture sur laquelle je note les facultés, les difficultés, les besoins. Je retrace l’historique de la perturbation. Je remplis un questionnaire visant à déterminer les goûts et les centres d’intérêts. Je propose une courte activité créatrice pour clôturer cette première séance.
 
 Si la compatibilité est bonne, si la personne adhère à cet accompagnement et si le cadre de la prise en charge est adapté à la perturbation, nous pourrons déterminer les objectifs et les modalités d’intervention des séances (horaire, fréquence, thème…).
 
@@ -72,15 +66,15 @@ Dans mes ateliers, je mets à disposition du patient tout un tas de matériaux, 
 
 Je privilégie cependant la médiation artistique avec :
 
-<!--\\\\[endif]-->les arts plastiques (encre, peinture, dessin, pastels..)
+<!--\\\\\[endif]-->Les arts plastiques (encre, peinture, dessin, pastels..),
 
-<!--\\\\[endif]-->le collage
+<!--\\\\\[endif]-->le collage,
 
-<!--\\\\[endif]-->le dessin spontané
+<!--\\\\\[endif]-->le dessin spontané,
 
-<!--\\\\[endif]-->le modelage
+<!--\\\\\[endif]-->le modelage,
 
-<!--\\\\[endif]-->le dialogue arts plastiques – écriture
+<!--\\\\\[endif]-->le dialogue arts plastiques – écriture.
 
 Dans tous les cas, sachez que chacun de nous a en soi **sa propre magie créative**.
 
@@ -141,5 +135,3 @@ J'ai plusieurs outils à ma disposition pour aider un jeune à résoudre ses dif
 Avec l’hypnose par exemple, l’adolescent peut programmer son esprit **pour augmenter sa confiance en lui, se détendre, croire en ses compétences, donner le meilleur de lui...**
 
 Je me réjouis d'en discuter, avec vous, lors de notre rencontre.
-
-A bientôt :-)
