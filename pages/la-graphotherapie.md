@@ -8,7 +8,7 @@ excerpt: >-
   vitesse) et la personnalisation.
 
 
-  La graphothérapie utilise des techniques de relaxation et des exercices ludiques, sensoriels, moteurs et qu’il a sans doute besoin d’une rééducation axée sur son écriture. Souvent, les enseignants sont très attentifs pour aider l’enfant à atténuer ce trouble et encourager une scolarité sereine.
+  La graphothérapie utilise des techniques de relaxation et des exercices ludiques, sensoriels, moteurs et cognitifs pour aider la personne à retrouver confiance et plaisir dans son écriture.
 
 
   La graphothérapie est une thérapie brève qui peut corriger et améliorer durablement une écriture défectueuse.
