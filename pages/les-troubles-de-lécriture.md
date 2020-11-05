@@ -47,7 +47,7 @@ Les perturbations graphiques peuvent avoir plusieurs origines :
 3. L’écriture est trop lente, la prise de note pendant les cours est difficile
 
    * Les devoirs ne sont pas terminés, les points peuvent être enlevés à cause d’un travail non fini. La prise de note est laborieuse et trop coûteuse en énergie.
-4. L’écriture est illisible et l’enseignant et l’enfant lui-même n’arrive pas à la relire.
+4. L’écriture est illisible, l’enseignant et l’enfant lui-même n’arrivent pas à la relire.
 
    * Les lettres ne sont pas bien formées, non conformes au modèle scolaire. Les espacements irréguliers, les lignes mal tenues. L’écriture devient peu lisible. Un désordre dans l’écriture peut pénaliser un élève. Bien écrire permet de se relire, donc de voir ses erreurs et les corriger.
 5. L’écriture est fatigante est génère trop d’énergie et empêche la double tâche.
