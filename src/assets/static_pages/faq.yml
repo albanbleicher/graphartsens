@@ -6,17 +6,17 @@ faq_desc: "## **Les questions que vous pouvez vous poser ?**"
 questions:
   - question_name: Quelles sont les étapes qu’un enfant doit franchir pour être prêt
       pour commencer l’écriture en CP ?
-    question_response: Il est primordial d’aborder les formes pré-scripturales à
+    question_response: Il est primordial d’aborder les formes pré-graphiques à
       l’école maternelle par le biais du jeu, de la manipulation et de
       l’expérimentation. Il faut un entrainement quotidien sur ces gestes
       graphiques.
     audio: /uploads/aud-20201105-wa0001-dès-la-maternelle.m4a
   - question_name: Le cas des gauchers ?
-    question_response: Les gauchers peuvent avoir une aussi belle écriture qu’un
-      droitier. Les difficultés rencontrées ont souvent pour origine un matériel
-      non adapté, l’installation de mauvaises habitudes, une confusion dans le
-      sens de rotation des lettres. Un vrai gaucher n’a généralement pas de
-      difficultés d’écriture si tout est fait pour favoriser la bonne
+    question_response: Les gauchers peuvent avoir une aussi belle écriture que les
+      droitiers. Les difficultés rencontrées ont souvent pour origine un
+      matériel non adapté, l’installation de mauvaises habitudes, une confusion
+      dans le sens de rotation des lettres. Un vrai gaucher n’a généralement pas
+      de difficultés d’écriture si tout est fait pour favoriser la bonne
       utilisation de sa main gauche.
     audio: /uploads/aud-20201105-wa0002-les-gauchers.m4a
   - question_name: "Quelle réponse apporter en classe ? "
@@ -25,9 +25,10 @@ questions:
       l’ordinateur paraît être une solution simple, permettant d’alléger la
       charge cognitive liée à l’orthographe, mais il est aussi préjudiciable. En
       effet, l’écriture sur clavier ou tablette freine la mémorisation et la
-      capacité à organiser ses idées. Une rééducation de l’écriture et des
-      aménagements en classe sont souvent une réponse adaptée à ces
-      perturbations.
+      capacité d'organiser ses idées. Une rééducation de l’écriture et des
+      aménagements en classe, tels que la mise en place d’un tiers temps, un
+      allègement du nombre d’exercices, la limitation des situations de doubles
+      tâches etc... sont souvent une réponse adaptée à ces perturbations.
     audio: /uploads/aud-20201105-wa0011-passage-à-l-ordi.m4a
   - question_name: Est-ce différent d'un suivi de psychomotricité ?
     question_response: Un psychomotricien et un graphothérapeute ont des champs
