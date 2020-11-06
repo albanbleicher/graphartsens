@@ -41,17 +41,19 @@ questions:
       au Centre de Formation « Le Geste ».
     audio: /uploads/aud-20201105-wa0000-psychomotricien.m4a
   - question_name: A quel moment de la journée est-il préférable de faire les séances ?
-    question_response: Je démarre toujours les séances par un temps de relaxation,
-      ce qui permet de relâcher les tensions, les surcharges cognitives des
-      temps scolaires. Je consulte les mercredis et les samedis matin et pendant
-      les vacances scolaires. La poursuite des séances peut se faire à distance
-      via zoom ou skype.
+    question_response: "Je démarre toujours mes séances par un temps de relaxation,
+      ce qui permet de relâcher les tensions, les surchages cognitives des temps
+      scolaires. IL est impératif de respecter le rythme de l’enfant. A la
+      demande des familles et avec l’accord du responsable de l’établissement,
+      je peux me déplacer dans les écoles, collèges, lycées pour y faire des
+      accompagnements. Je consulte également les mercredis et les samedis  et
+      pendant les vacances scolaires. "
     audio: /uploads/aud-20201105-wa0008-demarre-par-relaxation.m4a
   - question_name: Il y a t-il un lien entre précocité et trouble de l'écriture ?
     question_response: Au regard des statistiques, il semblerait que 30 à 50% des
       enfants à Haut Potentiel présentent des troubles de l’écriture. Chez ces
-      jeunes il y a un décalage entre leur maturité intellectuelle et leur
-      développement psychomoteur et affectif.
+      jeunes il y a un décalage entre leur maturité intellectuelle, la vivacité
+      de leur pensée et leur développement psychomoteur et affectif.
     audio: /uploads/aud-20201105-wa0005-enfants-hp.m4a
   - question_name: Mon enfant est dyslexique, faut-il poursuivre le suivi chez un
       orthophoniste ?
@@ -103,3 +105,7 @@ questions:
       un diagnostic précis sur les potentialités et les perturbations graphiques
       et propose un plan de rééducation.
     audio: /uploads/aud-20201105-wa0012-graphologie.m4a
+  - question_name: La graphothérapie est-elle remboursée ?
+    question_response: La graphothérapie n’est pas encore remboursée. Toutefois, il
+      faut savoir que c’est une thérapie brève, il faut donc en général peu de
+      séances (entre 8 et 15) pour corriger un trouble de l’écriture.
