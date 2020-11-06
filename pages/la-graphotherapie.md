@@ -18,6 +18,8 @@ similar: La dysgraphie
 ---
 **« La graphothérapie une méthode de rééducation utilisée lorsqu’on rencontre des problèmes pour écrire »**
 
+
+
 **Qu’est que la graphothérapie ou rééducation de l’écriture ?**
 
 C’est une **approche thérapeutique douce** visant à **réconcilier enfants, adolescents et adultes avec leur écriture.**
