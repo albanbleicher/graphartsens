@@ -20,7 +20,7 @@ similar: La dysgraphie
 
 
 
-**Qu’est que la graphothérapie ou rééducation de l’écriture ?**
+### **Qu’est que la graphothérapie ou rééducation de l’écriture ?**
 
 C’est une **approche thérapeutique douce** visant à **réconcilier enfants, adolescents et adultes avec leur écriture.**
 
@@ -34,7 +34,9 @@ La graphothérapie permet **de se réapproprier une écriture harmonieuse et co
 
 La graphothérapie utilise des **techniques de relaxation** et des **exercices ludiques, sensoriels, moteurs et cognitifs** pour aider la personne à retrouver confiance et plaisir dans son écriture.
 
-**Pourquoi et quand consulter un graphothérapeute?**
+
+
+### **Pourquoi et quand consulter un graphothérapeute?**
 
 Dans un premier temps, on remarque que les parents sont déjà interpellés par la façon dont leurs enfants **tiennent leur crayon**.
 
@@ -64,7 +66,9 @@ La graphothérapie est une thérapie brève qui peut corriger et améliorer dura
 
 Une prise en charge individualisée en graphothérapie peut, **en peu de séances,** corriger et améliorer durablement une écriture défectueuse.
 
-**Pour qui s’adresse la rééducation de l’écriture ?**
+
+
+### **Pour qui s’adresse la rééducation de l’écriture ?**
 
 A toute personne (enfant, adolescents, adultes) en difficulté avec son écriture et désireuse de (re) trouver le plaisir d’écrire. 
 
@@ -72,13 +76,13 @@ Les troubles d’écriture sont variables selon les individus, les perturbations
 
 De manière générale, on identifie que :
 
-\-L’écriture est illisible, très petite, tremblée, déformée, salie, raturée, dansante sur les lignes, mal proportionnée...
+\- L’écriture est illisible, très petite, tremblée, déformée, salie, raturée, dansante sur les lignes, mal proportionnée...
 
-\-Une écriture très scolaire, esthétiquement belle, mais beaucoup trop lente
+\- Une écriture très scolaire, esthétiquement belle, mais beaucoup trop lente
 
-\-Une écriture inconfortable et douloureuse
+\- Une écriture inconfortable et douloureuse
 
-\-Une écriture en décalage avec la maturité intellectuelle
+\- Une écriture en décalage avec la maturité intellectuelle
 
 Quand les perturbations sont prononcées et associées, on parle de trouble dysgraphique (celui-ci est déterminé par une cotation précise).
 
