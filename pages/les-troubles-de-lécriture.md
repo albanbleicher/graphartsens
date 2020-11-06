@@ -40,10 +40,10 @@ Les perturbations graphiques peuvent avoir plusieurs origines :
 
 1. Une mauvaise tenue du stylo
 
-   * L'enfant ou le jeune se crispe sur le stylo, transpire, manque de tonicité, ressent parfois des douleurs dans les doigts, main, poignet, dos...Une simple mauvaise préhension du crayon peut dater de longtemps et entrainer de fortes douleurs.
+   * L'enfant ou le jeune se crispe sur le stylo, transpire, manque de tonicité, ressent parfois des douleurs dans les doigts, main, poignet, dos...Une simple mauvaise préhension du crayon peut dater de longtemps et entraîner de fortes douleurs.
 2. Mon enfant rencontre des perturbations avec l’apprentissage de l’écriture
 
-   * En savoir plus : Cela indique que l’enfant n’a pas assimilé les différents stades de l’acquisition de l’écriture ou ceux-ci ont été survolés.
+   * Cela indique que l’enfant n’a pas assimilé les différents stades de l’acquisition de l’écriture ou que ceux-ci ont été survolés.
 3. L’écriture est trop lente, la prise de note pendant les cours est difficile
 
    * Les devoirs ne sont pas terminés, les points peuvent être enlevés à cause d’un travail non fini. La prise de note est laborieuse et trop coûteuse en énergie.
