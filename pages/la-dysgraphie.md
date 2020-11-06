@@ -4,7 +4,7 @@ isOnHomepage: true
 title: La dysgraphie
 excerpt: >-
   « L’écriture d’un enfant, d’un adolescent dysgraphique manque souvent de
-  lisibilité, c’est un peu comme si un droitier écrivait avec sa main gauche »
+  lisibilité, c’est un peu comme si un droitier écrivait avec sa main gauche ».
 
 
   C’est la difficulté d’écrire correctement. Attention on ne parle pas ici d’orthographe ou de grammaire.
