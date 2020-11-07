@@ -16,7 +16,7 @@ header_photo: /uploads/photos.png
 date: 2020-10-08T22:31:14.077Z
 similar: La dysgraphie
 ---
-**« La graphothérapie une méthode de rééducation utilisée lorsqu’on rencontre des problèmes pour écrire »**
+***« La graphothérapie une méthode de rééducation utilisée lorsqu’on rencontre des problèmes pour écrire »***
 
 
 
