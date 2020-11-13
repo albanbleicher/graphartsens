@@ -18,6 +18,8 @@ similar: La dysgraphie
 ---
 ***« La graphothérapie une méthode de rééducation utilisée lorsqu’on rencontre des problèmes pour écrire »***
 
+
+
 ### **Qu’est que la graphothérapie ou rééducation de l’écriture ?**
 
 C’est une **approche thérapeutique douce** visant à **réconcilier enfants, adolescents et adultes avec leur écriture.**
@@ -31,6 +33,8 @@ Son approche **individualisée et globale**, lui permet d’améliorer l’écr
 La graphothérapie permet **de se réapproprier une écriture harmonieuse et confortable**, guidée par le plaisir, la fierté, l’efficacité (lisibilité, vitesse) et la personnalisation.
 
 La graphothérapie utilise des **techniques de relaxation** et des **exercices ludiques, sensoriels, moteurs et cognitifs** pour aider la personne à retrouver confiance et plaisir dans son écriture.
+
+
 
 ### **Pourquoi et quand consulter un graphothérapeute?**
 
@@ -61,6 +65,8 @@ Il est primordial que l’enfant, ou l’adolescent, entende qu’il a sans dout
 La graphothérapie est une thérapie brève qui peut corriger et améliorer durablement une écriture défectueuse.
 
 Une prise en charge individualisée en graphothérapie peut, **en peu de séances,** corriger et améliorer durablement une écriture défectueuse.
+
+
 
 ### **Pour qui s’adresse la rééducation de l’écriture ?**
 
