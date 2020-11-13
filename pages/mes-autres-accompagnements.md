@@ -10,9 +10,7 @@ similar: Tarifs et contacts
 ---
 ## **La médiation artistique en relation d’aide**
 
-
-
-###  ***\- Qu’est-ce que la médiation artistique en relation d’aide ?***
+### ***\- Qu’est-ce que la médiation artistique en relation d’aide ?***
 
 C’est tout d’abord **un support de soin**, qui utilise les bénéfices d’une pratique artistique et créative **pour restaurer un bien-être et renforcer l’estime de soi.**
 
@@ -24,35 +22,35 @@ La médiation artistique pose **des objectifs thérapeutiques personnalisés et 
 
 Ce mode d’expression non verbale **libère les personnes, amène de la détente corporelle et psychique, stimule et valorise les potentialités.**
 
-###  ***\- Pour quelles raisons puis-je utiliser la médiation artistique ?***
+### ***\- Pour quelles raisons puis-je utiliser la médiation artistique ?***
 
- <!--\\\\\\[endif]-->Pour restaurer une confiance en soi,
+ <!--\\\\\\\[endif]-->Pour restaurer une confiance en soi,
 
- <!--\\\\\\[endif]-->détourner ses peurs,
+ <!--\\\\\\\[endif]-->détourner ses peurs,
 
- <!--\\\\\\[endif]-->se détendre, diminuer son stress,
+ <!--\\\\\\\[endif]-->se détendre, diminuer son stress,
 
-<!--\\\\\\[endif]-->apaiser les difficultés scolaires,
+<!--\\\\\\\[endif]-->apaiser les difficultés scolaires,
 
-<!--\\\\\\[endif]-->mettre à distance les émotions,
+<!--\\\\\\\[endif]-->mettre à distance les émotions,
 
-<!--\\\\\\[endif]-->développer les capacités sensorielles, cognitives, comportementales,
+<!--\\\\\\\[endif]-->développer les capacités sensorielles, cognitives, comportementales,
 
-<!--\\\\\\[endif]-->améliorer les relations avec les autres,
+<!--\\\\\\\[endif]-->améliorer les relations avec les autres,
 
-<!--\\\\\\[endif]-->apaiser les tensions intérieures,
+<!--\\\\\\\[endif]-->apaiser les tensions intérieures,
 
-<!--\\\\\\[endif]-->redonner de l’élan à un projet,
+<!--\\\\\\\[endif]-->redonner de l’élan à un projet,
 
-<!--\\\\\\[endif]-->aider à la résilience,
+<!--\\\\\\\[endif]-->aider à la résilience,
 
-<!--\\\\\\[endif]-->favoriser l’autonomie,
+<!--\\\\\\\[endif]-->favoriser l’autonomie,
 
-<!--\\\\\\[endif]-->encourager sa capacité à faire des choix.
+<!--\\\\\\\[endif]-->encourager sa capacité à faire des choix.
 
 En bref, la médiation artistique permet de retrouver du bien-être, renforcer son estime de soi et la confiance en soi et enclencher un processus d’épanouissement.
 
-###  ***\- Comment je procède ?*** 
+### ***\- Comment je procède ?***
 
 Pour le premier atelier qui dure environ 1h30, je réalise une fiche d’ouverture sur laquelle je note les facultés, les difficultés, les besoins. Je retrace l’historique de la perturbation. Je remplis un questionnaire visant à déterminer les goûts et les centres d’intérêts. Je propose une courte activité créatrice pour clôturer cette première séance.
 
@@ -62,21 +60,21 @@ Pendant les ateliers, je veillerai particulièrement à ce que la personne **gag
 
 Pour les premiers ateliers, je pourrai suggérer un cadre, un thème, un jeu de départ, mais progressivement mon but sera de favoriser la spontanéité, l’imagination singulière, l’autonomie de la personne.
 
-###  ***\- Quels sont les médiums que je privilégie pendant mes séances ?***
+### ***\- Quels sont les médiums que je privilégie pendant mes séances ?***
 
 Dans mes ateliers, je mets à disposition du patient tout un tas de matériaux, techniques, supports, papiers, couleurs afin de favoriser l’émergence d’un désir créatif et permettre l’accès à **plusieurs représentations sensorielles**.
 
 Je privilégie cependant la médiation artistique avec :
 
-<!--\\\\\\[endif]-->Les arts plastiques (encre, peinture, dessin, pastels..),
+<!--\\\\\\\[endif]-->Les arts plastiques (encre, peinture, dessin, pastels..),
 
-<!--\\\\\\[endif]-->le collage,
+<!--\\\\\\\[endif]-->le collage,
 
-<!--\\\\\\[endif]-->le dessin spontané,
+<!--\\\\\\\[endif]-->le dessin spontané,
 
-<!--\\\\\\[endif]-->le modelage,
+<!--\\\\\\\[endif]-->le modelage,
 
-<!--\\\\\\[endif]-->le dialogue arts plastiques – écriture.
+<!--\\\\\\\[endif]-->le dialogue arts plastiques – écriture.
 
 Dans tous les cas, sachez que chacun de nous a en soi **sa propre magie créative**.
 
@@ -89,8 +87,6 @@ Je propose des ateliers de médiation artistique en présentiel **dans les struc
 
 
 ## **L’hypnose et le conte métaphorique pour enfants et adolescents**
-
-
 
 ### *\- En quoi cela consiste t’il ?*
 
