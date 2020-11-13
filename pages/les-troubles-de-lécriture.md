@@ -50,7 +50,7 @@ Les perturbations graphiques peuvent avoir plusieurs origines :
 4. L’écriture est illisible, l’enseignant et l’enfant lui-même n’arrivent pas à la relire.
 
    * Les lettres ne sont pas bien formées, non conformes au modèle scolaire. Les espacements irréguliers, les lignes mal tenues. L’écriture devient peu lisible. Un désordre dans l’écriture peut pénaliser un élève. Bien écrire permet de se relire, donc de voir ses erreurs et les corriger.
-5. L’écriture est fatigante est génère trop d’énergie et empêche la double tâche.
+5. L’écriture est fatigante et génère trop d’énergie et empêche la double tâche.
 
    * Les jeunes dont l’écriture et/ou l’orthographe sont défectueux ont des difficultés à libérer de l’attention pour des tâches plus complexes (production de raisonnements construits, composition de textes organisés, mémorisation). Le but de la rééducation de l’écriture est d’obtenir le maximum d’efficacité en économisant ses efforts de sorte l’écriture devienne un automatisme et permette d’être libre de s’intéresser à ce que l’on apprend.
 6. L’écriture manque de soin avec des ratures et les cahiers sont mal tenus.
