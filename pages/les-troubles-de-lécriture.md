@@ -55,7 +55,7 @@ Les perturbations graphiques peuvent avoir plusieurs origines :
    * Les jeunes dont l’écriture et/ou l’orthographe sont défectueux ont des difficultés à libérer de l’attention pour des tâches plus complexes (production de raisonnements construits, composition de textes organisés, mémorisation). Le but de la rééducation de l’écriture est d’obtenir le maximum d’efficacité en économisant ses efforts de sorte l’écriture devienne un automatisme et permette d’être libre de s’intéresser à ce que l’on apprend.
 6. L’écriture manque de soin avec des ratures et les cahiers sont mal tenus.
 
-   * L’écriture n’est pas soignée, les cahiers mal tenus, le trait est irrégulier, les ratures, retouches nombreuses, les mots se télescopent, l’écriture est dégradée, difficilement lisible. L’enfant est hésitant, il manque de confiance en lui. Les notes s’en ressentent.
+   * L’écriture n’est pas soignée, les cahiers mal tenus, le trait est irrégulier, les ratures, les retouches nombreuses, les mots se télescopent, l’écriture est dégradée et difficilement lisible. L’enfant est hésitant, il manque de confiance en lui. Les notes s’en ressentent.
 7. Le jeune n’est pas parvenu à automatiser son geste d’écriture.
 
    * Entre 12 et 14 ans c’est la période de la personnalisation de l’écriture. Le jeune doit avoir trouvé son propre équilibre graphique entre : lisibilité, vitesse et détachement du modèle scolaire. Le fait, de ne pas pouvoir atteindre ces objectifs est constitutif d’une déficience de l’écriture.
