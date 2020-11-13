@@ -10,4 +10,4 @@ similar: Tarifs et contacts
 ---
 ![](/uploads/tarif-bilan-reworked.png "Tarif des bilans")
 
-![](/uploads/tarifs-des-séances.png "Tarif des séances")
+![](/uploads/taris-séances-50-domicile.png "Tarif des séances")
