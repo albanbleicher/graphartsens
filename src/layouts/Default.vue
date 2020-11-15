@@ -7,7 +7,7 @@
       <a href="/">Accueil</a>
       </a>
       <ul>
-        <li v-for='(item,i) in menu' :key='i'><g-link :to="item.path">{{item.title}}</g-link></li>
+        <li v-for='(item,i) in menu' :key='i'><a :href="item.path">{{item.title}}</a></li>
         <li class="responsive close"><a href="#">Fermer le menu</a></li>
       </ul>
       <a href="#" class="responsive open">Menu</a>
@@ -84,7 +84,7 @@ export default {
       let data;
       if(item.type === "page") {
         data = JSON.parse(item.page)
-        data.path = "/pages/"+slugify(data.title.toLowerCase())
+        data.path = "/pages/"+slugify(data.title.toLowerCase().replace("'","-"))
 
       }
       else {
