@@ -8,21 +8,21 @@ menu_list_infos:
   - Questions fréquentes
 list:
   - type: page
-    page: "{'title':'La graphothérapie','path':'pages/la-graphotherapie'}"
+    page: '{"title":"La graphothérapie","path":"pages/la-graphotherapie"}'
   - type: page
-    page: "{'title':'Les troubles de
-      l'écriture','path':'pages/les-troubles-de-lécriture'}"
+    page: "{\"title\":\"Les troubles de
+      l'écriture\",\"path\":\"pages/les-troubles-de-lécriture\"}"
   - type: information
-    information: "{'title':'Questions fréquentes',path:'/faq'}"
+    information: '{"title":"Questions fréquentes","path":"/faq"}'
   - type: information
-    information: "{'title':'Le bilan et les séances',path:'/sessions'}"
+    information: '{"title":"Le bilan et les séances","path":"/sessions"}'
   - type: page
-    page: "{'title':'Tarifs des bilans et des
-      séances','path':'pages/tarifs-et-contacts'}"
+    page: '{"title":"Tarifs des bilans et des
+      séances","path":"pages/tarifs-et-contacts"}'
   - type: page
-    page: "{'title':'Mes autres
-      accompagnements','path':'pages/mes-autres-accompagnements'}"
+    page: '{"title":"Mes autres
+      accompagnements","path":"pages/mes-autres-accompagnements"}'
   - type: information
-    information: "{'title':'Mes autres accompagnements en image',path:'/gallery'}"
+    information: '{"title":"Mes autres accompagnements en image","path":"/gallery"}'
   - type: information
-    information: "{'title':'Qui-suis-je ?',path:'/about'}"
+    information: '{"title":"Qui-suis-je ?","path":"/about"}'
