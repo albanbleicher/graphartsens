@@ -17,6 +17,7 @@
     "node-sass": "^4.14.1",
     "sass-loader": "^10.0.2",
     "showdown": "^1.9.1",
-    "v-markdown": "^1.0.2"
+    "v-markdown": "^1.0.2",
+    "@sindresorhus/slugify":"0.8.0"
   }
 }
