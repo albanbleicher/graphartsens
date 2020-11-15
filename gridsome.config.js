@@ -71,7 +71,7 @@ module.exports = {
   templates: {
     Blog: '/blog/:title',
     ContentPage: '/pages/:title',
-    SettingPage: '/:slug',
+    SettingPage: '/:title',
     Menus: '/sitemap/:title'
   },
   transformers: {

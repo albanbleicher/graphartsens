@@ -37,7 +37,7 @@
         <p>☎ 06 87 32 17 90</p>
         <div class="arrow-up">
           <p class="label hidden">Revenir en haut</p>
-          <a class="arrow-up-link" @click='handleUp' title="Revenir en haut">↑</a>
+          <a class="arrow-up-link" href="#" @click='handleUp' title="Revenir en haut">↑</a>
         </div>
       </div>
       </div>
