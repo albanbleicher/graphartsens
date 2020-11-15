@@ -64,7 +64,7 @@ query getMenu {
 </static-query>
 
 <script>
-var slugify = require('slugify')
+import slugify from 'slugify'
 export default {
   data() {
     return {
