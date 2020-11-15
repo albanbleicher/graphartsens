@@ -2,9 +2,9 @@
 <div>
     <div class="layout" id='top'>
     <nav>
-      <a class="logo-link" href="/">
+      <a class="logo-link" href="https://ecv-graphartsens.fr">
       <img src="@/assets/images/logo.png" alt="GraphArtSens">
-      <a href="/">Accueil</a>
+      <a href="https://ecv-graphartsens.fr">Accueil</a>
       </a>
       <ul>
         <li v-for='(item,i) in menu' :key='i'><a :href="item.path">{{item.title}}</a></li>
