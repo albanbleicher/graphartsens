@@ -6,30 +6,43 @@ media_folder: "static/uploads"
 public_folder: "/uploads"
 locale: 'fr'
 collections:
-  # - name: "menus"
-  #   label: "Menus"
-  #   editor: 
-  #     preview: false 
-  #   files:
-  #     - label: "Menu de l'en-tête"
-  #       name: "header_menu"
-  #       file: "src/assets/menus/header_menu.yml"
-  #       slug: "{{slug}}"
-  #       fields:
-  #       - label: "Pages de contenu"
-  #         hint: "Je séléctionne des pages parmi les pages de contenu"
-  #         name: "menu_list_contet"
-  #         collapsed: false
-  #         widget: "list"
-  #         summary: '{{fields.page.title}}'
-  #         field: {label: "Page", name: "page", widget: "relation", collection: "pages", search_fields: ["title"], value_field: "title", display_fields: ["title"]}
-  #       - label: "Pages d'informations"
-  #         hint: "Je séléctionne des pages parmi les pages d'informations"
-  #         name: "menu_list_infos"
-  #         collapsed: false
-  #         widget: "list"
-  #         summary: '{{fields.page.title}}'
-  #         field: {label: "Page", name: "page", widget: "relation", collection: "settings", search_fields: ["title"], value_field: "title", display_fields: ["title"]}
+  - name: "menus"
+    label: "Menus"
+    editor: 
+      preview: false 
+    files:
+      - label: "Menu de l'en-tête"
+        name: "header_menu"
+        file: "src/assets/menus/header_menu.yml"
+        slug: "{{slug}}"
+        fields:
+        - label: "Page"
+          name: "list"
+          widget: "list"
+          collapsed: false
+          types:
+          - label: "Type : Page"
+            name: "page"
+            widget: "object"
+            fields:
+              - label: "Nouvelle page"
+                name: "page"
+                widget: "relation"
+                collection: "pages"
+                search_fields: ["title"]
+                value_field: '{"title":"{{title}}","path":"pages/{{slug}}"}'
+                display_fields: ["{{title}}"]
+          - label: "Type : Informations"
+            name: "information"
+            widget: "object"
+            fields: 
+            - label: "Nouvelle page"
+              name: "information"
+              widget: "relation"
+              collection: "settings"
+              search_fields: ["title"]
+              value_field: '{"title":"{{title}}","path":""}'
+              display_fields: ["title"]
   - name: "posts"
     label: "Article"
     folder: "posts"
@@ -49,8 +62,6 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false, required: false}
-      - {label: "Ajouter au pied de page", name: "isFooterMenu", widget: "boolean", default: false, required: false}
       - {label: "Ajouter un extrait sur la page d'accueil", name: "isOnHomepage", widget: "boolean", default: false, required: false}
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Résumé", name: "excerpt", widget: "text"}
@@ -69,12 +80,11 @@ collections:
     editor: 
       preview: false 
     files:
-      - label: "Mes accompagnements en images "
+      - label: "Mes accompagnements en images"
         name: "gallery"
         file: "src/assets/static_pages/gallery.yml"
-        slug: "{{slug}}"
+        slug: "mes-accompagnements-en-image"
         fields:
-          - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false, required: false}
           - {label: "Titre de la page", name: "title", widget: "string"}
           - {label: "Image d'en-tête", name: header_photo,required:false, widget: image}
           - {label: "Texte de présentation", name: "content", widget: "markdown"}
@@ -87,10 +97,8 @@ collections:
       - label: "Qui-suis-je ?"
         name: "about"
         file: "src/assets/static_pages/who.yml"
-        slug: "{{slug}}"
+        slug: "qui-suis-je"
         fields:
-          - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false, required: false}
-          - {label: "Ajouter au pied de page", name: "isFooterMenu", widget: "boolean", default: false, required: false}
           - {label: "Image d'en-tête", name: header_photo,required:false, widget: image}
           - {label: "Titre de la page", name: title, widget: string}
           - {label: "Photo de présentation", name: about_photo, widget: image}
@@ -103,10 +111,8 @@ collections:
       - label: "Séances"
         name: "sessions"
         file: "src/assets/static_pages/sessions.yml"
-        slug: "{{slug}}"
+        slug: "seances"
         fields:
-          - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false, required: false}
-          - {label: "Ajouter au pied de page", name: "isFooterMenu", widget: "boolean", default: false, required: false}
           - {label: "Image d'en-tête", name: header_photo,required:false, widget: image}
           - {label: "Titre de la page", name: title, widget: string}
           - {label: "Présentations des séances", name: sessions_content, widget: markdown}
@@ -131,12 +137,10 @@ collections:
           #     - {label: "Description du tarif", name: "sessions_tarif_desc", widget: "markdown"}
           #     - {label: "Montant", name: sessions_tarif_price, widget: string}
       - label: "Questions fréquentes"
-        name: "faq"
+        name: "questions-frequentes"
         file: "src/assets/static_pages/faq.yml"
         slug: "{{slug}}"
         fields:
-          - {label: "Ajouter cette page au menu", name: "isInMenu", widget: "boolean", default: false, required: false}
-          - {label: "Ajouter au pied de page", name: "isFooterMenu", widget: "boolean", default: false, required: false}
           - {label: "Image d'en-tête", name: header_photo,required:false, widget: image}
           - {label: "Titre de la page", name: title, widget: string}
           - {label: "Texte de présentation", name: faq_desc, widget: markdown}
