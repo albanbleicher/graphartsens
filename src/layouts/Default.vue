@@ -4,7 +4,7 @@
     <nav>
       <a class="logo-link" href="https://ecv-graphartsens.fr">
       <img src="@/assets/images/logo.png" alt="GraphArtSens">
-      <a href="https://ecv-graphartsens.fr">Accueil</a>
+      <span>Accueil</span>
       </a>
       <ul>
         <li v-for='(item,i) in menu' :key='i'><a :href="item.path">{{item.title}}</a></li>
