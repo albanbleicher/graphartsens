@@ -89,7 +89,7 @@ export default {
       }
       else {
         data = JSON.parse(item.information)
-        data.path = "/"+slugify(data.title.toLowerCase())
+        data.path = "/"+slugify(data.title.toLowerCase().replace("'","-"))
       }
       this.menu.push(data)
     })
