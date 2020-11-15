@@ -13,9 +13,9 @@ list:
     page: "{\"title\":\"Les troubles de
       l'écriture\",\"path\":\"pages/les-troubles-de-lécriture\"}"
   - type: information
-    information: '{"title":"Questions fréquentes","path":"/faq"}'
+    information: '{"title":"Questions fréquentes","path":""}'
   - type: information
-    information: '{"title":"Le bilan et les séances","path":"/sessions"}'
+    information: '{"title":"Le bilan et les séances","path":""}'
   - type: page
     page: '{"title":"Tarifs des bilans et des
       séances","path":"pages/tarifs-et-contacts"}'
@@ -23,6 +23,6 @@ list:
     page: '{"title":"Mes autres
       accompagnements","path":"pages/mes-autres-accompagnements"}'
   - type: information
-    information: '{"title":"Mes autres accompagnements en image","path":"/gallery"}'
+    information: '{"title":"Mes autres accompagnements en image","path":""}'
   - type: information
-    information: '{"title":"Qui-suis-je ?","path":"/about"}'
+    information: '{"title":"Qui-suis-je ?","path":""}'
