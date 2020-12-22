@@ -1,13 +1,13 @@
 ---
-isInMenu: true
-isFooterMenu: true
 isOnHomepage: false
-title: Tarifs des bilans et des séances
 excerpt: " "
 header_photo: /uploads/img_7219.jpeg
-date: 2020-10-31T14:42:07.239Z
+isFooterMenu: true
 similar: Tarifs et contacts
+isInMenu: true
+title: Tarifs des bilans et des séances
+date: 2020-10-31T14:42:07.239Z
 ---
-![](/uploads/tarif-bilan-reworked.png "Tarif des bilans")
+![](/uploads/tarif-bilan-reworked-dec.png "Tarif des bilans")
 
 ![](/uploads/taris-séances-50-domicile.png "Tarif des séances")
