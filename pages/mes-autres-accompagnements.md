@@ -1,12 +1,12 @@
 ---
-isInMenu: true
-isFooterMenu: true
-isOnHomepage: false
-title: Mes autres accompagnements
 excerpt: "  "
 header_photo: /uploads/photo-2020-11-01-09-49-42.jpg
-date: 2020-11-01T11:01:03.016Z
+isFooterMenu: true
 similar: Tarifs et contacts
+isInMenu: true
+isOnHomepage: false
+title: Mes autres accompagnements
+date: 2020-11-01T11:01:03.016Z
 ---
 ## **La médiation artistique en relation d’aide**
 
@@ -24,29 +24,29 @@ Ce mode d’expression non verbale **libère les personnes, amène de la détent
 
 ### ***\- Pour quelles raisons puis-je utiliser la médiation artistique ?***
 
- <!--\\\\\\\[endif]-->Pour restaurer une confiance en soi,
+ <!--\\\\\\\\[endif]-->Pour restaurer une confiance en soi,
 
- <!--\\\\\\\[endif]-->détourner ses peurs,
+ <!--\\\\\\\\[endif]-->détourner ses peurs,
 
- <!--\\\\\\\[endif]-->se détendre, diminuer son stress,
+ <!--\\\\\\\\[endif]-->se détendre, diminuer son stress,
 
-<!--\\\\\\\[endif]-->apaiser les difficultés scolaires,
+<!--\\\\\\\\[endif]-->apaiser les difficultés scolaires,
 
-<!--\\\\\\\[endif]-->mettre à distance les émotions,
+<!--\\\\\\\\[endif]-->mettre à distance les émotions,
 
-<!--\\\\\\\[endif]-->développer les capacités sensorielles, cognitives, comportementales,
+<!--\\\\\\\\[endif]-->développer les capacités sensorielles, cognitives, comportementales,
 
-<!--\\\\\\\[endif]-->améliorer les relations avec les autres,
+<!--\\\\\\\\[endif]-->améliorer les relations avec les autres,
 
-<!--\\\\\\\[endif]-->apaiser les tensions intérieures,
+<!--\\\\\\\\[endif]-->apaiser les tensions intérieures,
 
-<!--\\\\\\\[endif]-->redonner de l’élan à un projet,
+<!--\\\\\\\\[endif]-->redonner de l’élan à un projet,
 
-<!--\\\\\\\[endif]-->aider à la résilience,
+<!--\\\\\\\\[endif]-->aider à la résilience,
 
-<!--\\\\\\\[endif]-->favoriser l’autonomie,
+<!--\\\\\\\\[endif]-->favoriser l’autonomie,
 
-<!--\\\\\\\[endif]-->encourager sa capacité à faire des choix.
+<!--\\\\\\\\[endif]-->encourager sa capacité à faire des choix.
 
 En bref, la médiation artistique permet de retrouver du bien-être, renforcer son estime de soi et la confiance en soi et enclencher un processus d’épanouissement.
 
@@ -66,15 +66,15 @@ Dans mes ateliers, je mets à disposition du patient tout un tas de matériaux, 
 
 Je privilégie cependant la médiation artistique avec :
 
-<!--\\\\\\\[endif]-->Les arts plastiques (encre, peinture, dessin, pastels..),
+<!--\\\\\\\\[endif]-->Les arts plastiques (encre, peinture, dessin, pastels..),
 
-<!--\\\\\\\[endif]-->le collage,
+<!--\\\\\\\\[endif]-->le collage,
 
-<!--\\\\\\\[endif]-->le dessin spontané,
+<!--\\\\\\\\[endif]-->le dessin spontané,
 
-<!--\\\\\\\[endif]-->le modelage,
+<!--\\\\\\\\[endif]-->le modelage,
 
-<!--\\\\\\\[endif]-->le dialogue arts plastiques – écriture.
+<!--\\\\\\\\[endif]-->le dialogue arts plastiques – écriture.
 
 Dans tous les cas, sachez que chacun de nous a en soi **sa propre magie créative**.
 
@@ -84,9 +84,7 @@ Dans tous les cas, sachez que chacun de nous a en soi **sa propre magie créativ
 
 Je propose des ateliers de médiation artistique en présentiel **dans les structures, hôpitaux, maison de retraite, associations, à domicile ou à mon bureau.** Je peux mettre en place une prise en charge (individuelle ou collective) adaptée aux besoins et particularités de chacun (me contacter pour un devis).
 
-
-
-## **L’hypnose et le conte métaphorique pour enfants et adolescents**
+## **Méditation guidée et conte métaphorique** 
 
 ### *\- En quoi cela consiste t’il ?*
 
