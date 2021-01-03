@@ -10,4 +10,4 @@ date: 2020-10-31T14:42:07.239Z
 ---
 ![](/uploads/tarif-bilan-reworked-dec.png "Tarif des bilans")
 
-![](/uploads/taris-séances-50-domicile.png "Tarif des séances")
+![](/uploads/tarif-avec-méditation.png "Tarif des séances")
