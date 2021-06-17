@@ -10,4 +10,4 @@ date: 2020-10-31T14:42:07.239Z
 ---
 ![](/uploads/tarifs-des-bilans-juin-2021.png "Tarif des bilans")
 
-![](/uploads/tarifs-des-séances-juin-21.png "Tarif des séances")
+![](/uploads/2-tarifs-des-séances-juin-21.png "Tarif des séances")
