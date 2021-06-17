@@ -8,6 +8,6 @@ isInMenu: true
 title: Tarifs des bilans et des séances
 date: 2020-10-31T14:42:07.239Z
 ---
-![](/uploads/tarif-bilan-reworked-dec.png "Tarif des bilans")
+![](/uploads/tarifs-des-bilans-juin-2021.png "Tarif des bilans")
 
-![](/uploads/tarif-avec-méditation.png "Tarif des séances")
+![](/uploads/tarifs-des-séances-juin-21.png "Tarif des séances")
